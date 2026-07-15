@@ -1,0 +1,190 @@
+@UTF8
+@PID:	11312/a-00092585-0
+@Window:	0_0_0_0_6243_1_6731_0_6731_0
+@Begin
+@Languages:	rus
+@Participants:	NAN Nurse, CHI Target_Child
+@Options:	bullets
+@ID:	rus|RusLan|NAN||female|||Nurse|||
+@ID:	rus|RusLan|CHI|1;06.05|female|||Target_Child|||
+@Media:	T51, video
+@Date:	29-JAN-2021
+@Types:	long, toyplay, TD
+*NAN:	да Тось ? 0_5209
+%mor:	part|да propn|Тося-Fem-Sing-Nom ?
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+%sit:	the child is standing in front of the mirror in a jacket
+*NAN:	штаны наверно тоже примерить надо Тось . 5209_19846
+%mor:	noun|штаны-Masc-Plur-Acc adv|наверно part|тоже verb|примерить-Inf-Perf-S adv|надо propn|Тося-Fem-Sing-Nom .
+%gra:	1|4|OBJ 2|5|ADVMOD 3|5|ADVMOD 4|5|XCOMP 5|0|ROOT 6|5|VOCATIVE
+	7|6|PUNCT
+*NAN:	мм ? 19846_21866
+%mor:	intj|мм ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	ца@o ца@o ца@o ца@o . 21866_32529
+%mor:	intj|ца intj|ца intj|ца intj|ца .
+%gra:	1|0|ROOT 2|1|CONJ 3|1|CONJ 4|1|CONJ 5|4|PUNCT
+%act:	the child starts making horse noises
+*NAN:	ой ой . 32529_34466
+%mor:	intj|ой intj|ой .
+%gra:	1|0|ROOT 2|1|CONJ 3|2|PUNCT
+*NAN:	скажи Тося кукла . 34466_36867
+%mor:	verb|сказать-Fin-Perf-Imp-S2 propn|Тося-Fem-Sing-Nom noun|кукла-Fem-Sing-Nom .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|XCOMP 4|3|PUNCT
+*NAN:	я кукла . 36867_38319
+%mor:	pron|я-Prs-Nom-S1 noun|кукла-Fem-Sing-Nom .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	вава . 38319_39928
+%mor:	intj|вава .
+%gra:	1|0|ROOT 2|1|PUNCT
+*NAN:	кукла . 38319_40508
+%mor:	noun|кукла-Fem-Sing-Nom .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	баба . 40508_42550
+%mor:	noun|баба-Fem-Sing-Nom .
+%gra:	1|0|ROOT 2|1|PUNCT
+*NAN:	куукла [: кукла] . 40508_43294
+%mor:	noun|кукла-Fem-Sing-Nom .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	ва@u . 43294_44424
+%mor:	intj|ва .
+%gra:	1|0|ROOT 2|1|PUNCT
+*NAN:	кто кукла ? 43294_44711
+%mor:	pron|кто-IntRel-Nom-S1 noun|кукла-Fem-Sing-Nom ?
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	баба . 44711_45720
+%mor:	noun|баба-Fem-Sing-Nom .
+%gra:	1|0|ROOT 2|1|PUNCT
+*NAN:	баба , какая баба ? 45720_47041
+%mor:	noun|баба-Fem-Sing-Nom cm|cm det|какой-Fem-Def-IntRel-Sing-Nom noun|баба-Fem-Sing-Nom ?
+%gra:	1|0|ROOT 2|1|PUNCT 3|4|DET 4|1|CONJ 5|4|PUNCT
+*NAN:	xыxы . 47041_47969
+%mor:	intj|xыxы .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	Ряря [: Варя] [*] . 47041_48474
+%mor:	propn|Варя-Fem-Sing-Nom .
+%gra:	1|0|ROOT 2|1|PUNCT
+*NAN:	Варя кукла ? 47969_49435
+%mor:	propn|Варя-Fem-Sing-Nom noun|кукла-Fem-Sing-Nom ?
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	баба . 49435_50790
+%mor:	noun|баба-Fem-Sing-Nom .
+%gra:	1|0|ROOT 2|1|PUNCT
+*NAN:	бабушка кукла ? 49435_51525
+%mor:	noun|бабушка-Fem-Sing-Nom noun|кукла-Fem-Sing-Nom ?
+%gra:	1|2|NSUBJ 2|0|ROOT 3|1|PUNCT
+*CHI:	ба@u . 51525_52967
+%mor:	intj|ба .
+%gra:	1|0|ROOT 2|1|PUNCT
+*NAN:	а мама кукла ? 51525_54052
+%mor:	cconj|а noun|мама-Fem-Sing-Nom noun|кукла-Fem-Sing-Nom ?
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	папа . 54052_55292
+%mor:	noun|папа-Masc-Sing-Nom .
+%gra:	1|0|ROOT 2|1|PUNCT
+%com:	the child is whispering
+*NAN:	папа ? 55292_56839
+%mor:	noun|папа-Masc-Sing-Nom ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*NAN:	ну папа не кукла . 56839_58324
+%mor:	part|ну noun|папа-Masc-Sing-Nom part|не noun|кукла-Fem-Sing-Nom .
+%gra:	1|4|DISCOURSE 2|4|NSUBJ 3|4|ADVMOD 4|0|ROOT 5|4|PUNCT
+*NAN:	папа это папа . 58324_59448
+%mor:	noun|папа-Masc-Sing-Nom pron|это-Dem-Nom-S1 noun|папа-Masc-Sing-Nom .
+%gra:	1|3|NSUBJ 2|3|EXPL 3|0|ROOT 4|3|PUNCT
+*NAN:	а девочки куклы . 59448_61012
+%mor:	cconj|а noun|девочка-Fem-Plur-Nom noun|кукла-Fem-Plur-Nom .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|PUNCT
+*NAN:	гxгx . 61012_62286
+%mor:	intj|гxгx .
+%gra:	1|0|ROOT 2|1|PUNCT
+*NAN:	девочки куклы да ? 62286_63623
+%mor:	noun|девочка-Fem-Plur-Nom noun|кукла-Fem-Plur-Nom intj|да ?
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|DISCOURSE 4|3|PUNCT
+*CHI:	тла@o тла@o . 63623_65134
+%mor:	intj|тла intj|тла .
+%gra:	1|0|ROOT 2|1|CONJ 3|2|PUNCT
+%act:	the child is making horse noises again
+*NAN:	штаны будешь мерить ? 63623_66192
+%mor:	noun|штаны-Masc-Plur-Acc aux|быть-Fin-Ind-Fut-S2 verb|мерить-Inf-Imp-S ?
+%gra:	1|3|OBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*CHI:	мм . 66192_67634
+%mor:	intj|мм .
+%gra:	1|0|ROOT 2|1|PUNCT
+*NAN:	штаны . 67634_68389
+%mor:	noun|штаны-Masc-Plur-Nom .
+%gra:	1|0|ROOT 2|1|PUNCT
+%com:	the speaker shows the trousers by moving her camera
+*CHI:	нет@sl . 68389_69729
+%mor:	intj|нет .
+%gra:	1|0|ROOT 2|1|PUNCT
+%com:	the child answers verbally and by shaking her head in denial
+*NAN:	просто в куртке ? 69729_71228
+%mor:	part|просто adp|в noun|куртка-Fem-Sing-Loc ?
+%gra:	1|3|ADVMOD 2|3|CASE 3|0|ROOT 4|3|PUNCT
+*CHI:	нне . 71228_72461
+%mor:	intj|нне .
+%gra:	1|0|ROOT 2|1|PUNCT
+*NAN:	ну xоди тогда просто в куртке . 72461_74800
+%mor:	part|ну verb|xодить-Fin-Imp-Imp-S2 adv|тогда part|просто adp|в noun|куртка-Fem-Sing-Loc .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|ADVMOD 4|6|ADVMOD 5|6|CASE 6|2|OBL
+	7|6|PUNCT
+*NAN:	жарко будет тебе +... 74800_76920
+%mor:	adv|жарко verb|быть-Fin-Imp-Ind-Pres-S3 pron|ты-Prs-Dat-S2 +...
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|IOBJ 4|3|PUNCT
+*NAN:	+, только . 76920_78239
+%mor:	part|только .
+%gra:	1|0|ROOT 2|1|PUNCT
+%sit:	the child starts taking off her hood
+*NAN:	снимаем ? 78239_80430
+%mor:	verb|снимать-Fin-Imp-Ind-Pres-P1 ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	нееет . 80430_81890
+%mor:	intj|нееет .
+%gra:	1|0|ROOT 2|1|PUNCT
+*NAN:	нет ? 80430_82275
+%mor:	intj|нет ?
+%gra:	1|0|ROOT 2|1|PUNCT
+%sit:	the child unzips her jacket
+*NAN:	иди перед зеркалом встань перед зеркалом Тось . 82275_91641
+%mor:	verb|идти-Fin-Imp-Imp-S2 adp|перед noun|зеркало-Neut-Sing-Ins verb|встать-Fin-Perf-Imp-S2 adp|перед noun|зеркало-Neut-Sing-Ins propn|Тося-Fem-Sing-Nom .
+%gra:	1|4|CONJ 2|3|CASE 3|1|OBL 4|0|ROOT 5|6|CASE 6|4|OBL 7|1|VOCATIVE
+	8|7|PUNCT
+*NAN:	ну всё-таки снимаешь . 91641_95457
+%mor:	part|ну part|всётаки verb|снимать-Fin-Imp-Ind-Pres-S2 .
+%gra:	1|2|DISCOURSE 2|3|DISCOURSE 3|0|ROOT 4|3|PUNCT
+*NAN:	тебе помочь ? 95457_97913
+%mor:	pron|ты-Prs-Dat-S2 verb|помочь-Inf-Perf-S ?
+%gra:	1|2|IOBJ 2|0|ROOT 3|2|PUNCT
+*NAN:	иди помогу , иди сюда . 97913_100071
+%mor:	verb|идти-Fin-Imp-Imp-S2 verb|помочь-Fin-Perf-Ind-Fut-S1 cm|cm verb|идти-Fin-Imp-Imp-S2 adv|сюда .
+%gra:	1|0|ROOT 2|1|XCOMP 3|2|PUNCT 4|1|CONJ 5|4|ADVMOD 6|5|PUNCT
+*NAN:	расть [: расстегнём] [*] , расстегнём мы с тобой да ? 100071_103687
+%mor:	verb|расстегнуть-Fin-Imp-Ind-Pres-S1 cm|cm verb|расстегнуть-Fin-Perf-Ind-Fut-S1 pron|мы-Prs-Nom-P1 adp|с pron|ты-Prs-Ins-S2 intj|да ?
+%gra:	1|0|ROOT 2|1|PUNCT 3|1|CONJ 4|3|NSUBJ 5|6|CASE 6|4|NMOD 7|1|DISCOURSE 8|7|PUNCT
+*CHI:	икаааа . 103687_105120
+%mor:	intj|икаааа .
+%gra:	1|0|ROOT 2|1|PUNCT
+*NAN:	ой нет не кричи пожалуйста , ты же снимаешь я xочу тебе снять . 103687_108539
+%mor:	intj|ой part|нет part|не verb|кричать-Fin-Imp-Imp-S2 part|пожалуйста cm|cm pron|ты-Prs-Nom-S2 part|же verb|снимать-Fin-Imp-Ind-Pres-S2 pron|я-Prs-Nom-S1 verb|xотеть-Fin-Perf-Ind-Pres-S1 pron|ты-Prs-Dat-S2 verb|снять-Inf-Perf-S .
+%gra:	1|4|DISCOURSE 2|4|PARATAXIS 3|4|ADVMOD 4|0|ROOT 5|4|DISCOURSE 6|5|PUNCT 7|9|NSUBJ 8|7|ADVMOD 9|4|PARATAXIS 10|9|NSUBJ 11|9|PARATAXIS 12|13|IOBJ 13|11|XCOMP 14|13|PUNCT
+*NAN:	снимаем ? 108539_109892
+%mor:	verb|снимать-Fin-Imp-Ind-Pres-P1 ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	мм@sl . 109892_110898
+%mor:	intj|мм .
+%gra:	1|0|ROOT 2|1|PUNCT
+%act:	the child shows disagreement
+*NAN:	застегнуть ? 110898_112537
+%mor:	verb|застегнуть-Inf-Perf-S ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	ммм . 110898_113320
+%mor:	intj|ммм .
+%gra:	1|0|ROOT 2|1|PUNCT
+*NAN:	давай застегн [: застегну] , застегнёшь ? 112537_114402
+%mor:	verb|давать-Fin-Imp-Imp-S2 verb|застечь-Fin-Perf-Imp-Fut-S1 cm|cm verb|застегнуть-Fin-Perf-Ind-Fut-S2 ?
+%gra:	1|0|ROOT 2|1|XCOMP 3|2|PUNCT 4|1|PARATAXIS 5|4|PUNCT
+*CHI:	няаа . 113320_115044
+%mor:	intj|няаа .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

@@ -1,0 +1,76 @@
+@UTF8
+@PID:	11312/a-00092401-0
+@Window:	0_0_0_0_1746_1_2093_0_2093_0
+@Begin
+@Languages:	rus
+@Participants:	NAN Nurse, CHI Target_Child
+@Options:	bullets
+@ID:	rus|RusLan|NAN||female|||Nurse|||
+@ID:	rus|RusLan|CHI|1;10.25|female|||Target_Child|||
+@Media:	T107, audio
+@Date:	23-JUL-2017
+@Types:	long, toyplay, TD
+*NAN:	жили-были ? 704_3369
+%mor:	verb|жить-быть-Fin-Imp-Ind-Past-P3 ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	баба . 3369_4383
+%mor:	noun|баба-Fem-Sing-Nom .
+%gra:	1|0|ROOT 2|1|PUNCT
+*NAN:	баба . 4383_6010
+%mor:	noun|баба-Fem-Sing-Nom .
+%gra:	1|0|ROOT 2|1|PUNCT
+*NAN:	с кем ? 6010_6600
+%mor:	adp|с pron|кто-IntRel-Ins ?
+%gra:	1|2|CASE 2|0|ROOT 3|2|PUNCT
+*NAN:	и ? 6600_7936
+%mor:	cconj|и ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	де(да) . 6600_7736
+%mor:	noun|дед-Masc-Sing-Nom .
+%gra:	1|0|ROOT 2|1|PUNCT
+*NAN:	и деда , да ? 7736_9056
+%mor:	cconj|и noun|дед-Masc-Sing-Nom cm|cm intj|да ?
+%gra:	1|2|CC 2|0|ROOT 3|2|PUNCT 4|2|CONJ 5|4|PUNCT
+*CHI:	да . 7736_9056
+%mor:	intj|да .
+%gra:	1|0|ROOT 2|1|PUNCT
+*NAN:	и б(ыла) . 9056_10794
+%mor:	cconj|и verb|быть-Fin-Imp-Ind-Past-S .
+%gra:	1|2|CC 2|0|ROOT 3|2|PUNCT
+*NAN:	посади(л) , а , нет . 10794_12057
+%mor:	verb|посадить-Fin-Perf-Ind-Past-S3 cm|cm cconj|а cm|cm intj|нет .
+%gra:	1|0|ROOT 2|1|PUNCT 3|5|CC 4|3|PUNCT 5|1|CONJ 6|5|PUNCT
+*NAN:	это у нас что ? 12057_12908
+%mor:	pron|это-Dem-Nom adp|у pron|мы-Prs-Gen-P1 pron|что-IntRel-Nom ?
+%gra:	1|4|NSUBJ 2|3|CASE 3|4|OBL 4|0|ROOT 5|4|PUNCT
+*NAN:	жили-были бабка с дедом . 12908_15027
+%mor:	verb|жить-быть-Fin-Imp-Ind-Past-P3 noun|бабка-Fem-Sing-Nom adp|с noun|дед-Masc-Sing-Ins .
+%gra:	1|0|ROOT 2|1|NSUBJ 3|4|CASE 4|2|NMOD 5|4|PUNCT
+*NAN:	посадил дед . 15027_17228
+%mor:	verb|посадить-Fin-Perf-Ind-Past-S3 noun|дед-Masc-Sing-Nom .
+%gra:	1|0|ROOT 2|1|OBJ 3|2|PUNCT
+*CHI:	мм . 17228_17857
+%mor:	intj|мм .
+%gra:	1|0|ROOT 2|1|PUNCT
+%act:	points
+*NAN:	что посадил дед ? 17857_19515
+%mor:	pron|что-IntRel-Acc verb|посадить-Fin-Perf-Ind-Past-S3 noun|дед-Masc-Sing-Nom ?
+%gra:	1|2|OBJ 2|0|ROOT 3|2|NSUBJ 4|3|PUNCT
+*CHI:	мм . 19515_20181
+%mor:	intj|мм .
+%gra:	1|0|ROOT 2|1|PUNCT
+*NAN:	Тося ? 20181_20979
+%mor:	propn|Тося-Fem-Sing-Nom ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	м . 20979_21667
+%mor:	intj|м .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	баба . 21667_23465
+%mor:	noun|баба-Fem-Sing-Nom .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	м . 23465_25521%mor:	intj|м .
+%gra:	1|0|ROOT 2|1|PUNCT
+*NAN:	всё , батаре(йка) +/. 25521_26554
+%mor:	pron|все-Tot-Nom cm|cm noun|батарейка-Fem-Sing-Nom +/.
+%gra:	1|0|ROOT 2|1|PUNCT 3|1|CONJ 4|3|PUNCT
+@End

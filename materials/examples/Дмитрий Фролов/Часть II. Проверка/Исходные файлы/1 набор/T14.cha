@@ -1,0 +1,134 @@
+@UTF8
+@PID:	11312/a-00092437-0
+@Begin
+@Languages:	rus
+@Participants:	MOT Mother, CHI Target_Child
+@ID:	rus|RusLan|MOT||female|||Mother|||
+@ID:	rus|RusLan|CHI|1;00.26|female|||Target_Child|||
+@Media:	T14, video
+@Date:	20-SEP-2016
+@Types:	long, toyplay, TD
+*MOT:	ну что , Тося , давай покажем , как мы на горку залезаем ! 1640_5570
+%mor:	part|ну pron|что-IntRel-Nom-S1 cm|cm propn|Тося-Fem-Sing-Nom cm|cm verb|давать-Fin-Imp-Imp-S2 verb|показать-Fin-Perf-Imp-Fut-P1 cm|cm adv|как pron|мы-Prs-Nom-P1 adp|на noun|горка-Fem-Sing-Acc verb|залезать-Fin-Imp-Ind-Pres-P1 !
+%gra:	1|6|DISCOURSE 2|1|FIXED 3|2|PUNCT 4|6|VOCATIVE 5|4|PUNCT 6|0|ROOT 7|6|XCOMP 8|7|PUNCT 9|13|ADVMOD 10|13|NSUBJ 11|12|CASE 12|13|OBL 13|7|CCOMP 14|13|PUNCT
+*MOT:	давай полезем на горку ? 5790_7510
+%mor:	verb|давать-Fin-Imp-Imp-S2 verb|полезеть-Fin-Perf-Imp-Pres-S1 adp|на noun|горка-Fem-Sing-Acc ?
+%gra:	1|0|ROOT 2|1|XCOMP 3|4|CASE 4|2|OBL 5|4|PUNCT
+*MOT:	Тось [: Тося] . 7740_9110
+%mor:	propn|Тося-Fem-Sing-Nom .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	ну если xочешь , пойдем , пройдемся , да , какие . 13560_16680
+%mor:	part|ну sconj|если verb|xотеть-Fin-Imp-Ind-Fut-S2 cm|cm verb|пойти-Fin-Perf-Imp-Fut-P1 cm|cm verb|пройтись-Fin-Perf-Ind-Fut-P1 cm|cm intj|да cm|cm det|какой-Def-IntRel-Plur-Nom .
+%gra:	1|3|DISCOURSE 2|3|MARK 3|0|ROOT 4|3|PUNCT 5|3|CONJ 6|5|PUNCT 7|3|CONJ 8|7|PUNCT 9|3|DISCOURSE 10|9|PUNCT 11|9|DISLOCATED 12|11|PUNCT
+*MOT:	это корабль прям . 17220_18960
+%mor:	pron|это-Dem-Nom-S1 noun|корабль-Masc-Sing-Nom part|прямо .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|ADVMOD 4|3|PUNCT
+*MOT:	да , настоящий . 19160_20600
+%mor:	intj|да cm|cm adj|настоящий-Masc-Sing-Nom .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|0|ROOT 4|3|PUNCT
+*MOT:	ты умеешь залезать тут ? 20610_21840
+%mor:	pron|ты-Prs-Nom-S2 verb|уметь-Fin-Imp-Ind-Fut-S2 verb|залезать-Inf-Imp adv|тут ?
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|XCOMP 4|3|ADVMOD 5|4|PUNCT
+*MOT:	по тросам , да , по морским тросам . 23930_27440
+%mor:	adp|по noun|трос-Masc-Plur-Dat cm|cm intj|да cm|cm adp|по adj|морской-Masc-Plur-Dat noun|трос-Masc-Plur-Dat .
+%gra:	1|2|CASE 2|0|ROOT 3|2|PUNCT 4|2|DISCOURSE 5|4|PUNCT 6|8|CASE 7|8|AMOD 8|2|CONJ 9|8|PUNCT
+*MOT:	Тося , умеешь ? 28870_31460
+%mor:	propn|Тося-Fem-Sing-Nom cm|cm verb|уметь-Fin-Imp-Ind-Fut-S2 ?
+%gra:	1|3|VOCATIVE 2|1|PUNCT 3|0|ROOT 4|3|PUNCT
+*MOT:	ну-ка давай вперёд , залезай ! 37090_40290
+%mor:	part|нука verb|давать-Fin-Imp-Imp-S2 adv|вперед cm|cm verb|залезать-Fin-Imp-Imp-S2 !
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|ADVMOD 4|3|PUNCT 5|2|CONJ 6|5|PUNCT
+*MOT:	молодец . 40720_41820
+%mor:	noun|молодец-Masc-Sing-Nom .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	молодец Тося , Тося молодец ! 42950_45660
+%mor:	noun|молодец-Masc-Sing-Nom propn|Тося-Fem-Sing-Nom cm|cm propn|Тося-Fem-Sing-Nom noun|молодец-Masc-Sing-Nom !
+%gra:	1|0|ROOT 2|1|NSUBJ 3|2|PUNCT 4|5|NSUBJ 5|1|PARATAXIS 6|5|PUNCT
+*MOT:	неплоxо , вот так ещё лучше ! 46670_49680
+%mor:	adv|неплоxоcm|cm part|вот adv|так adv|еще adj|хороший-Cmp !
+%gra:	1|0|ROOT 2|1|PUNCT 3|4|ADVMOD 4|6|ADVMOD 5|6|ADVMOD 6|1|CONJ 7|6|PUNCT
+*MOT:	так ну-ка , выберешься отсюда ? 51240_53880
+%mor:	part|так part|нука cm|cm verb|выбраться-Fin-Perf-Ind-Fut-S2 adv|отсюда ?
+%gra:	1|2|DISCOURSE 2|5|DISCOURSE 3|2|PUNCT 4|0|ROOT 5|4|OBJ 6|5|PUNCT
+*CHI:	ууу ! 56780_59210
+%mor:	intj|ууу !
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	ммм ! 62170_64030
+%mor:	intj|ммм !
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	какие классные грязные цепи ! 66670_69340
+%mor:	det|какой-Def-IntRel-Plur-Nom adj|классный-Plur-Nom adj|грязный-Plur-Nom noun|цепь-Fem-Plur-Nom !
+%gra:	1|4|DET 2|4|AMOD 3|4|AMOD 4|0|ROOT 5|4|PUNCT
+*MOT:	о , аборигены прибежали ! 73510_76810
+%mor:	intj|о cm|cm noun|абориген-Masc-Plur-Nom verb|прибегать-Fin-Perf-Ind-Past-P !
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|0|ROOT 5|4|PUNCT
+*MOT:	давай , за аборигенами , вперёд ! 82530_85520
+%mor:	verb|давать-Fin-Imp-Imp-S2 cm|cm adp|за noun|абориген-Masc-Plur-Ins cm|cm adv|вперед !
+%gra:	1|0|ROOT 2|1|PUNCT 3|4|CASE 4|1|OBL 5|4|PUNCT 6|1|ADVMOD 7|6|PUNCT
+*CHI:	ааа ! 87790_89840
+%mor:	intj|ааа !
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	ой ! 91170_92320
+%mor:	intj|ой !
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	подъём ! 92660_94080
+%mor:	noun|подъем-Masc-Sing-Nom !
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	канаты нам не дают покоя ! 94530_96840
+%mor:	noun|канат-Masc-Plur-Nom pron|мы-Prs-Dat-P1 part|не verb|давать-Fin-Imp-Ind-Pres-P3 noun|покой-Masc-Sing-Gen !
+%gra:	1|4|NSUBJ 2|4|IOBJ 3|4|ADVMOD 4|0|ROOT 5|4|OBL 6|5|PUNCT
+*MOT:	это как качелька , да , Тося , классная такая качелька ! 97660_101620
+%mor:	pron|это-Dem-Nom-S1 sconj|как noun|качелька-Fem-Sing-Nom cm|cm intj|да cm|cm propn|Тося-Fem-Sing-Nom cm|cm adj|классный-Fem-Sing-Nom det|такой-Fem-Def-Dem-Sing-Nom noun|качелька-Fem-Sing-Nom !
+%gra:	1|3|NSUBJ 2|3|MARK 3|0|ROOT 4|3|PUNCT 5|3|DISCOURSE 6|5|PUNCT 7|5|VOCATIVE 8|7|PUNCT 9|11|AMOD 10|11|DET 11|3|CONJ 12|11|PUNCT
+*MOT:	как Тося покатается ? 104190_107750
+%mor:	adv|как propn|Тося-Fem-Sing-Nom verb|покататься-Fin-Perf-Ind-Fut-S3 ?
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|0|ROOT 4|3|PUNCT
+*MOT:	а вот так нормально ! 108540_111600
+%mor:	cconj|а part|вот adv|так adv|нормально !
+%gra:	1|4|CC 2|3|ADVMOD 3|4|ADVMOD 4|0|ROOT 5|4|PUNCT
+*MOT:	здорово , Тось [: Тося] ? 112410_115000
+%mor:	adv|здорово cm|cm propn|Тося-Fem-Sing-Nom ?
+%gra:	1|0|ROOT 2|1|PUNCT 3|1|VOCATIVE 4|3|PUNCT
+*MOT:	Тось [: Тося] , а где Варя ? 116320_119020
+%mor:	propn|Тося-Fem-Sing-Nom cm|cm cconj|а adv|где propn|Варя-Fem-Sing-Nom ?
+%gra:	1|5|VOCATIVE 2|1|PUNCT 3|4|CC 4|0|ROOT 5|4|NSUBJ 6|5|PUNCT
+*MOT:	Тося ! 120240_121850
+%mor:	propn|Тося-Fem-Sing-Nom !
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	propn ? 122140_123240
+%mor:	noun|Тотоня-Fem-Sing-Nom ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	где Варвара ? 123340_124630
+%mor:	adv|где propn|Варвара-Fem-Sing-Nom ?
+%gra:	1|0|ROOT 2|1|NSUBJ 3|2|PUNCT
+*MOT:	пойдём Варю найдём ? 124910_127570
+%mor:	verb|пойти-Fin-Perf-Imp-P1 propn|Варя-Fem-Sing-Acc verb|найти-Fin-Perf-Imp-P1 ?
+%gra:	1|0|ROOT 2|3|OBJ 3|1|CONJ 4|3|PUNCT
+*MOT:	ну что такое , Тось [: Тося] ? 133360_136230
+%mor:	part|ну pron|что-IntRel-Nom-S1 det|такой-Neut-Def-Dem-Sing-Nom cm|cm propn|Тося-Fem-Sing-Nom ?
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|DET 4|3|PUNCT 5|2|VOCATIVE 6|5|PUNCT
+*MOT:	Тося , вставай , вставай , давай лапочку . 141750_145670
+%mor:	propn|Тося-Fem-Sing-Nom cm|cm verb|вставать-Fin-Perf-Imp-S2 cm|cm verb|вставать-Fin-Imp-Imp-S2 cm|cm verb|давать-Fin-Imp-Imp-S2 noun|лапочка-Fem-Sing-Acc .
+%gra:	1|3|VOCATIVE 2|1|PUNCT 3|0|ROOT 4|3|PUNCT 5|3|CONJ 6|5|PUNCT 7|3|CONJ 8|7|OBJ 9|8|PUNCT
+*MOT:	вставай . 145680_146740
+%mor:	verb|вставать-Fin-Imp-Imp-S2 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	ты же уже не ползунок . 147120_149750
+%mor:	pron|ты-Prs-Nom-S2 part|же adv|уже part|не noun|ползунок-Masc-Sing-Nom .
+%gra:	1|5|NSUBJ 2|1|ADVMOD 3|5|OBL 4|5|ADVMOD 5|0|ROOT 6|5|PUNCT
+*MOT:	стой , xулиган ! 151190_154910
+%mor:	verb|стоять-Fin-Imp-Imp-S2 cm|cm noun|xулиган-Masc-Sing-Nom !
+%gra:	1|0|ROOT 2|1|PUNCT 3|1|VOCATIVE 4|3|PUNCT
+*MOT:	стой ! 155360_156780
+%mor:	verb|стоять-Fin-Imp-Imp-S2 !
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	ну как тебе , нравится , Тось [: Тося] ? 157700_160260
+%mor:	part|ну adv|как pron|ты-Prs-Dat-S2 cm|cm verb|нравиться-Fin-Imp-Ind-Pres-S3 cm|cm propn|Тося-Fem-Sing-Nom ?
+%gra:	1|5|DISCOURSE 2|3|ADVMOD 3|5|IOBJ 4|3|PUNCT 5|0|ROOT 6|5|PUNCT 7|5|VOCATIVE 8|7|PUNCT
+*MOT:	нравится xxx ? 161000_162840
+%mor:	verb|нравиться-Fin-Imp-Ind-Pres-S3 ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	неплоxо . 164220_165810
+%mor:	adv|неплоxо .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

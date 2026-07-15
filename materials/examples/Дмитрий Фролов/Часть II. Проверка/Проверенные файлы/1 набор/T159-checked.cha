@@ -1,0 +1,115 @@
+@UTF8
+@PID:	11312/a-00092458-0
+@Window:	0_0_0_0_3625_1_4143_0_4143_0
+@Begin
+@Languages:	rus
+@Participants:	CHI Target_Child, MOT Mother, SIS Sister
+@Options:	bullets
+@ID:	rus|RusLan|CHI|2;02.16|female|||Target_Child|||
+@ID:	rus|RusLan|MOT||female|||Mother|||
+@ID:	rus|RusLan|SIS||female|||Sister|||
+@Media:	T159, video
+@Date:	13-NOV-2017
+@Types:	long, toyplay, TD
+*CHI:	Аня . 0_970
+%mor:	propn|Аня-Fem-Sing-Nom .
+%gra:	1|0|ROOT 2|1|PUNCT
+%act:	pretends to speak on the phone
+*MOT:	Тося по телефону разговаривает . 970_4599
+%mor:	propn|Тося-Fem-Sing-Nom adp|по noun|телефон-Masc-Sing-Dat verb|разговаривать-Fin-Imp-Ind-Pres-S3 .
+%gra:	1|4|NSUBJ 2|3|CASE 3|4|OBL 4|0|ROOT 5|4|PUNCT
+*CHI:	не(т) . 4599_6457
+%mor:	intj|нет .
+%gra:	1|0|ROOT 2|1|PUNCT
+*SIS:	Тось [: Тося] , скажи Варя . 6457_13675
+%mor:	propn|Тося-Fem-Sing-Nom cm|cm verb|сказать-Fin-Perf-Imp-S2 propn|Варя-Fem-Sing-Nom .
+%gra:	1|3|VOCATIVE 2|1|PUNCT 3|0|ROOT 4|3|XCOMP 5|4|PUNCT
+*CHI:	Варя ! 13675_14662
+%mor:	propn|Варя-Fem-Sing-Nom !
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	дома . 16291_21212
+%mor:	adv|дома .
+%gra:	1|0|ROOT 2|1|PUNCT
+*SIS:	Тось [: Тося] , скажи . 21212_23309
+%mor:	propn|Тося-Fem-Sing-Nom cm|cm verb|сказать-Fin-Perf-Imp-S2 .
+%gra:	1|3|VOCATIVE 2|1|PUNCT 3|0|ROOT 4|3|PUNCT
+*SIS:	я Саxара . 23309_24267
+%mor:	pron|я-Prs-Nom-S1 propn|Саxара-Fem-Sing-Nom .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|PUNCT
+*SIS:	Тося , скажи , я . 24267_27926
+%mor:	propn|Тося-Fem-Sing-Nom cm|cm verb|сказать-Fin-Perf-Imp-S2 cm|cm pron|я-Prs-Nom-S1 .
+%gra:	1|3|VOCATIVE 2|1|PUNCT 3|0|ROOT 4|3|PUNCT 5|3|XCOMP 6|5|PUNCT
+*MOT:	Варь [: Варя] , пусть поговорит человек сам , чё [: что] ты . 27926_31289
+%mor:	propn|Варя-Fem-Sing-Nom cm|cm part|пусть verb|поговорить-Fin-Perf-Ind-Fut-S3 noun|человек-Masc-Sing-Nom det|сам-Fem-Def-Emp-Sing-Nom cm|cm part|что pron|ты-Prs-Nom-S2 .
+%gra:	1|4|VOCATIVE 2|1|PUNCT 3|4|ADVMOD 4|0|ROOT 5|4|NSUBJ 6|5|ATTR
+	7|6|PUNCT 8|9|DISCOURSE 9|4|VOCATIVE 10|9|PUNCT
+*SIS:	ну . 31289_32387
+%mor:	part|ну .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	какие там новости , Тось [: Тося] ? 32387_34119
+%mor:	det|какой-Def-IntRel-Plur-Nom adv|там noun|новость-Fem-Plur-Nom cm|cm propn|Тося-Fem-Sing-Nom ?
+%gra:	1|3|DET 2|3|ADVMOD 3|0|ROOT 4|3|PUNCT 5|3|VOCATIVE 6|5|PUNCT
+*CHI:	папе . 34119_35909
+%mor:	noun|папа-Masc-Sing-Dat .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	я папа . 39902_41212
+%mor:	pron|я-Prs-Nom-S1 noun|папа-Masc-Sing-Nom .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|PUNCT
+*SIS:	неправда ! 41212_43315
+%mor:	noun|неправда-Fem-Sing-Nom !
+%gra:	1|0|ROOT 2|1|PUNCT
+*SIS:	бабушка , это Тося ! 43315_46037
+%mor:	noun|бабушка-Fem-Sing-Nom cm|cm pron|это-Dem-Nom-S1 propn|Тося-Fem-Sing-Nom !
+%gra:	1|4|VOCATIVE 2|1|PUNCT 3|4|NSUBJ 4|0|ROOT 5|4|PUNCT
+*CHI:	Тося . 46037_47855
+%mor:	propn|Тося-Fem-Sing-Nom .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	э ! 52459_55780
+%mor:	intj|э !
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	баба . 55780_59812
+%mor:	noun|баба-Fem-Sing-Nom .
+%gra:	1|0|ROOT 2|1|PUNCT
+*SIS:	м . 59812_61236
+%mor:	intj|м .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	я а@u +/. 61236_61955
+%mor:	pron|я-Prs-Nom-S1 intj|а +/.
+%gra:	1|0|ROOT 2|1|DISCOURSE 3|2|PUNCT
+*SIS:	Тося ! 61236_62692
+%mor:	propn|Тося-Fem-Sing-Nom !
+%gra:	1|0|ROOT 2|1|PUNCT
+*SIS:	это мой . 64045_65067
+%mor:	pron|это-Dem-Nom-S1 det|мой-Masc-Def-Prs-Sing-Nom .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|PUNCT
+*MOT:	ну пусть поговорит немножко , Варь [: Варя] . 64045_66011
+%mor:	part|ну part|пусть verb|поговорить-Fin-Perf-Ind-Fut-S3 adv|немножко cm|cm propn|Варя-Fem-Sing-Nom .
+%gra:	1|3|DISCOURSE 2|3|ADVMOD 3|0|ROOT 4|3|ADVMOD 5|4|PUNCT 6|3|VOCATIVE 7|6|PUNCT
+*MOT:	ну чё [: что] ты , жалко тебе , что ли . 66011_67560
+%mor:	part|ну part|что pron|ты-Prs-Nom-S2 cm|cm adv|жалко pron|ты-Prs-Dat-S2 cm|cm part|что part|ли .
+%gra:	1|2|DISCOURSE 2|3|DISCOURSE 3|2|VOCATIVE 4|3|PUNCT 5|0|ROOT 6|5|IOBJ 7|6|PUNCT 8|5|DISCOURSE 9|8|FIXED 10|9|PUNCT
+*SIS:	да . 67560_68234
+%mor:	intj|да .
+%gra:	1|0|ROOT 2|1|PUNCT
+*SIS:	жалко . 68234_68908
+%mor:	adv|жалко .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	всё , баба всё . 68908_70914
+%mor:	pron|все-Tot-Nom-S1 cm|cm noun|баба-Fem-Sing-Nom pron|все-Tot-Nom-S1 .
+%gra:	1|0|ROOT 2|1|PUNCT 3|4|NSUBJ 4|1|CONJ 5|4|PUNCT
+*CHI:	баба всё . 70914_73209
+%mor:	noun|баба-Fem-Sing-Nom pron|все-Tot-Nom-S1 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|PUNCT
+*SIS:	ну да , всё . 73209_73954
+%mor:	part|ну intj|да cm|cm pron|все-Tot-Nom-S1 .
+%gra:	1|2|DISCOURSE 2|4|DISCOURSE 3|2|PUNCT 4|0|ROOT 5|4|PUNCT
+*MOT:	попрощалась с тобой бабушка ? 73954_75365
+%mor:	verb|попрощаться-Fin-Perf-Ind-Past-S adp|с pron|ты-Prs-Ins-S2 noun|бабушка-Fem-Sing-Nom ?
+%gra:	1|0|ROOT 2|3|CASE 3|1|OBL 4|1|NSUBJ 5|4|PUNCT
+*CHI:	пока ! 75365_76500
+%mor:	intj|пока !
+%gra:	1|0|ROOT 2|1|PUNCT
+*SIS:	а , всё . 76500_77600
+%mor:	intj|а cm|cm pron|все-Tot-Nom-S1 .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|0|ROOT 4|3|PUNCT
+@End

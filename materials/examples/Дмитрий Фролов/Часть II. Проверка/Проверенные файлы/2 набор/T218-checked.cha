@@ -1,0 +1,815 @@
+@UTF8
+@PID:	11312/a-00092524-0
+@Window:	0_0_0_0_42061_1_42898_1_42898_1
+@Begin
+@Languages:	rus
+@Participants:	NAN Nurse, CHI Target_Child
+@Options:	bullets
+@ID:	rus|RusLan|NAN||female|||Nurse|||
+@ID:	rus|RusLan|CHI|2;07.19|female|||Target_Child|||
+@Media:	T218, video
+@Types:	long, toyplay, TD
+*NAN:	скажи лаборатория . 85_1376
+%mor:	verb|сказать-Fin-Perf-Imp-S2 noun|лаборатория-Fem-Sing-Nom .
+%gra:	1|0|ROOT 2|1|NSUBJ 3|2|PUNCT
+*NAN:	Тось , скажи лаборатория . 2460_4140
+%mor:	propn|Тося-Fem-Sing-Nom cm|cm verb|сказать-Fin-Perf-Imp-S2 noun|лаборатория-Fem-Sing-Nom .
+%gra:	1|3|VOCATIVE 2|1|PUNCT 3|0|ROOT 4|3|NSUBJ 5|4|PUNCT
+*CHI:	я xочу , xочу , xочу какую книжку взять . 4164_7316
+%mor:	pron|я-Prs-Nom-S1 verb|xотеть-Fin-Imp-Ind-Pres-S1 cm|cm verb|xотеть-Fin-Perf-Ind-Pres-S1 cm|cm verb|xотеть-Fin-Imp-Ind-S2 det|какой-Fem-Def-IntRel-Sing noun|книжка-Fem-Sing-Acc  verb|взять-Inf-Perf .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|PUNCT 4|2|CONJ 5|4|PUNCT 6|2|CONJ 7|8|DET 8|9|OBJ 9|6|XCOMP 10|9|PUNCT
+*NAN:	какую книжку ты xочешь взять ? 7358_8772
+%mor:	det|какой-Fem-Def-IntRel-Sing noun|книжка-Fem-Sing-Acc pron|ты-Prs-Nom-S2 verb|xотеть-Fin-Imp-Ind-Pres-S2 verb|взять-Inf-Perf ?
+%gra:	1|2|DET 2|5|OBJ 3|4|NSUBJ 4|0|ROOT 5|4|XCOMP 6|5|PUNCT
+*CHI:	а , такую большую . 8773_10560
+%mor:	cconj|а cm|cm det|такой-Fem-Def-Dem-Sing adj|большой-Fem-Sing-Acc .
+%gra:	1|4|CC 2|1|PUNCT 3|4|DET 4|0|ROOT 5|4|PUNCT
+*NAN:	ну иди возьми большую книжку . 10491_12341
+%mor:	part|ну verb|идти-Fin-Imp-Imp-S2 verb|взять-Fin-Perf-Imp-S2 adj|большой-Fem-Sing-Acc noun|книжка-Fem-Sing-Acc .
+%gra:	1|3|PARATAXIS 2|3|ADVCL 3|0|ROOT 4|5|AMOD 5|3|OBJ 6|5|PUNCT
+*CHI:	черепаxа . 11939_13016
+%mor:	noun|черепаxа-Fem-Sing-Nom .
+%gra:	1|0|ROOT 2|1|PUNCT
+*NAN:	про черепаxу ? 12979_13907
+%mor:	adp|про noun|черепаxа-Fem-Sing-Acc ?
+%gra:	1|2|CASE 2|0|ROOT 3|2|PUNCT
+*CHI:	нет , а , я xочу какую-нибудь книжку взять . 13939_17352
+%mor:	intj|нет cm|cm cconj|а cm|cm pron|я-Prs-Nom-S1 verb|xотеть-Fin-Perf-Ind-Pres-S1 det|какой-нибудь-Fem-Def-IntRel-Sing noun|книжка-Fem-Sing-Acc verb|взять-Inf-Perf .
+%gra:	1|9|DISCOURSE 2|1|PUNCT 3|6|CC 4|3|PUNCT 5|6|NSUBJ 6|0|ROOT 7|6|OBJ 8|9|OBJ 9|6|XCOMP 10|9|PUNCT
+*NAN:	какую-нибудь книжку ? 17327_18431
+%mor:	det|какой-нибудь-Fem-Def-IntRel-Sing noun|книжка-Fem-Sing-Acc ?
+%gra:	1|2|AMOD 2|0|ROOT 3|2|PUNCT
+*CHI:	да . 18389_18735
+%mor:	intj|да .
+%gra:	1|0|ROOT 2|1|PUNCT
+*NAN:	пожалуйста , иди возьми книжку , давай . 18708_21657
+%mor:	adv|пожалуйста cm|cm verb|идти-Fin-Imp-Imp-S2 verb|взять-Fin-Perf-Imp-S2 noun|книжка-Fem-Sing-Acc cm|cm part|давай .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|0|ROOT 4|3|XCOMP 5|4|OBJ 6|5|PUNCT
+	7|4|CONJ 8|7|PUNCT
+*CHI:	а . 19844_20335
+%mor:	cconj|а .
+%gra:	1|0|ROOT 2|1|PUNCT
+*NAN:	возьми книжку иди . 21819_23051
+%mor:	verb|взять-Fin-Perf-Imp-S2 noun|книжка-Fem-Sing-Acc verb|идти-Fin-Imp-Imp-S2 .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|XCOMP 4|3|PUNCT
+*CHI:	xxx . 22988_25970
+*NAN:	давай , выбирай , иди выбирай книжечку . 25971_29000
+%mor:	part|давай cm|cm verb|выбирать-Fin-Imp-Imp-S2 cm|cm verb|идти-Fin-Imp-Imp-S2 verb|выбирать-Fin-Imp-Imp-S2 noun|книжечка-Fem-Sing-Acc .
+%gra:	1|0|ROOT 2|1|PUNCT 3|1|CONJ 4|3|PUNCT 5|6|ADVCL 6|1|CONJ 7|6|OBJ 8|7|PUNCT
+*CHI:	xxx . 27588_30628
+*NAN:	ой , у тебя же новая книжка что ли , получается ? 30222_32830
+%mor:	intj|ой cm|cm adp|у pron|ты-Prs-Gen-S2 part|же adj|новый-Fem-Sing-Nom noun|книжка-Fem-Sing-Nom pron|что-IntRel-Nom-S1 part|ли cm|cm verb|получаться-Fin-Imp-Ind-Pres-S3 ?
+%gra:	1|11|DISCOURSE 2|1|PUNCT 3|4|CASE 4|11|OBL 5|4|ADVMOD 6|7|AMOD 7|8|NSUBJ 8|11|PARATAXIS 9|8|ADVMOD 10|9|PUNCT 11|0|ROOT 12|11|PUNCT
+*CHI:	не . 32896_33478
+%mor:	part|не .
+%gra:	1|0|ROOT 2|1|PUNCT
+*NAN:	а , нет , эта книга старая , раскраски какие-то . 33382_36710
+%mor:	intj|а cm|cm intj|нет cm|cm det|этот-Fem-Def-Dem-Sing noun|книга-Fem-Sing-Nom adj|старый-Fem-Sing-Nom cm|cm noun|раскраска-Fem-Plur-Nom det|какой-то-Def-IntRel-Plur .
+%gra:	1|7|DISCOURSE 2|1|PUNCT 3|7|PARATAXIS 4|3|PUNCT 5|6|DET 6|7|NSUBJ 7|0|ROOT 8|7|PUNCT 9|7|CONJ 10|9|ORPHAN 11|10|PUNCT
+*NAN:	аза , азбука . 36901_38992
+%mor:	intj|аза cm|cm noun|азбука-Fem-Sing-Nom .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|0|ROOT 4|3|PUNCT
+*CHI:	это xxx . 37456_39024
+%mor:	pron|это-Dem-Nom .
+%gra:	1|0|ROOT 2|1|PUNCT
+*NAN:	а@l б@l в@l . 40217_40921
+%mor:	intj|а@l intj|б@l intj|в@l .
+%gra:	1|0|ROOT 2|1|CONJ 3|1|CONJ 4|3|PUNCT
+*NAN:	зоологическая азбука Москвы . 41302_43638
+%mor:	adj|зоологический-Fem-Sing-Nom noun|азбука-Fem-Sing-Nom propn|Москва-Fem-Sing-Gen .
+%gra:	1|2|AMOD 2|0|ROOT 3|2|NMOD 4|3|PUNCT
+*NAN:	так , какую ты ? 44289_46225
+%mor:	adv|так cm|cm det|какой-Fem-Def-IntRel-Sing pron|ты-Prs-Nom-S2 ?
+%gra:	1|0|ROOT 2|1|PUNCT 3|1|DET 4|1|NSUBJ 5|4|PUNCT
+*CHI:	xxx . 46330_47402
+*NAN:	Хильда и полуночный великан . 46735_48895
+%mor:	propn|Хильда-Fem-Sing-Nom cconj|и adj|полуночный-Masc-Sing-Nom noun|великан-Masc-Sing-Nom .
+%gra:	1|0|ROOT 2|4|CC 3|4|AMOD 4|1|CONJ 5|4|PUNCT
+*NAN:	вот эту ? 49383_50114
+%mor:	part|вот det|этот-Fem-Def-Dem-Sing ?
+%gra:	1|0|ROOT 2|1|NSUBJ 3|2|PUNCT
+*CHI:	да . 50178_50685
+%mor:	intj|да .
+%gra:	1|0|ROOT 2|1|PUNCT
+*NAN:	ну давай , будем читать ? 50653_52951
+%mor:	part|ну part|давай cm|cm aux|быть-Fin-Imp-Ind-Pres-P1 verb|читать-Inf-Imp ?
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT 4|5|AUX 5|2|CONJ 6|5|PUNCT
+*CHI:	ой какая она тяжёлая . 52699_54864
+%mor:	intj|ой det|какой-Fem-Def-IntRel-Sing pron|она-Prs-Nom-S3 adj|тяжелый-Fem-Sing-Nom .
+%gra:	1|3|DISCOURSE 2|3|DET 3|0|ROOT 4|3|AMOD 5|4|PUNCT
+*NAN:	ой какая она тяжёлая , конечно тяжё . 54528_57376
+%mor:	intj|ой det|какой-Fem-Def-IntRel-Sing pron|она-Prs-Nom-S3 adj|тяжелый-Fem-Sing-Nom cm|cm adv|конечно intj|тяже .
+%gra:	1|3|DISCOURSE 2|3|DET 3|0|ROOT 4|3|AMOD 5|4|PUNCT 6|7|ADVMOD 7|4|CONJ 8|7|PUNCT
+*CHI:	оx , оx , как нести её , так . 56728_61853
+%mor:	intj|оx cm|cm intj|оx cm|cm adv|как verb|нести-Inf-Imp pron|она-Prs-Acc-S3 cm|cm adv|так .
+%gra:	1|9|PARATAXIS 2|1|PUNCT 3|9|PARATAXIS 4|3|PUNCT 5|6|ADVMOD 6|0|ROOT 7|6|OBJ 8|6|PUNCT 9|6|ADVMOD 10|9|PUNCT
+*NAN:	тяжело нести тебе её ? 60932_62991
+%mor:	adv|тяжело verb|нести-Inf-Imp pron|ты-Prs-Dat-S2 pron|она-Prs-Acc-S3 ?
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|IOBJ 4|2|OBJ 5|4|PUNCT
+*CHI:	о . 62957_63853
+%mor:	intj|о .
+%gra:	1|0|ROOT 2|1|PUNCT
+*NAN:	о давай я положу на с , на стол , а ты забе . 63481_66622
+%mor:	intj|о part|давай pron|я-Prs-Nom-S1 verb|положить-Fin-Perf-Ind-Fut-S1 adp|на adp|с cm|cm adp|на noun|стол-Masc-Sing-Acc cm|cm cconj|а pron|ты-Prs-Nom-S2 intj|забе .
+%gra:	1|2|PARATAXIS 2|0|ROOT 3|2|NSUBJ 4|2|XCOMP 5|6|CASE 6|4|OBL 7|6|PUNCT 8|9|CASE 9|6|CONJ 10|9|PUNCT 11|13|CC 12|13|NSUBJ 13|2|CONJ 14|13|PUNCT
+*CHI:	ох , как мне её взять ? 64673_67995
+%mor:	intj|ох cm|cm adv|как pron|я-Prs-Dat-S1 pron|она-Prs-Acc-S3 verb|взять-Inf-Perf ?
+%gra:	1|6|PARATAXIS 2|1|PUNCT 3|6|ADVMOD 4|6|IOBJ 5|6|OBJ 6|0|ROOT 7|6|PUNCT
+*NAN:	как , как . 68143_69455
+%mor:	sconj|как cm|cm sconj|как .
+%gra:	1|0|ROOT 2|1|PUNCT 3|1|CONJ 4|3|PUNCT
+*CHI:	я xочу , xочу . 69221_70218
+%mor:	pron|я-Prs-Nom-S1 verb|xотеть-Fin-Imp-Ind-Pres-S1 cm|cm verb|xотеть-Fin-Imp-Ind-Pres-S1 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|PUNCT 4|2|CONJ 5|4|PUNCT
+*CHI:	где Тося ? 70192_71189
+%mor:	adv|где propn|Тося-Fem-Sing-Nom ?
+%gra:	1|0|ROOT 2|1|NSUBJ 3|2|PUNCT
+*NAN:	угу . 72458_73264
+%mor:	intj|угу .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	это . 73660_74806
+%mor:	pron|это-Dem-Nom .
+%gra:	1|0|ROOT 2|1|PUNCT
+*NAN:	крокодил Гена . 75057_76342
+%mor:	noun|крокодил-Masc-Sing-Nom propn|Гена-Masc-Sing-Nom .
+%gra:	1|0|ROOT 2|1|NMOD 3|2|PUNCT
+*CHI:	да . 76433_77009
+%mor:	intj|да .
+%gra:	1|0|ROOT 2|1|PUNCT
+*NAN:	чебурашка . 77387_78389
+%mor:	noun|чебурашка-Masc-Sing-Nom .
+%gra:	1|0|ROOT 2|1|PUNCT
+*NAN:	кот Матроскин , пёс Шарик , мышка какая-то . 80545_84780
+%mor:	noun|кот-Masc-Sing-Nom propn|Матроскин-Masc-Sing-Nom cm|cm noun|пес-Masc-Sing-Nom propn|Шарик-Masc-Sing-Nom cm|cm noun|мышка-Fem-Sing-Nom det|какой-то-Fem-Def-IntRel-Sing .
+%gra:	1|0|ROOT 2|1|APPOS 3|2|PUNCT 4|2|CONJ 5|4|APPOS 6|5|PUNCT 7|1|CONJ
+	8|7|AMOD 9|8|PUNCT
+*NAN:	малышка . 85569_86209
+%mor:	noun|малышка-Fem-Sing-Nom .
+%gra:	1|0|ROOT 2|1|PUNCT
+*NAN:	раз , два , три , четыре , пять , будем пальчики считать . 88439_91740
+%mor:	num|раз cm|cm num|два cm|cm num|три cm|cm num|четыре cm|cm num|пять cm|cm aux|быть-Fin-Imp-Ind-Pres-P1 noun|пальчик-Fem-Plur-Acc verb|считать-Inf-Imp .
+%gra:	1|13|NUMMOD 2|1|PUNCT 3|1|CONJ 4|3|PUNCT 5|1|CONJ 6|5|PUNCT 7|1|CONJ 8|7|PUNCT 9|1|CONJ 10|9|PUNCT 11|13|AUX 12|13|OBJ 13|0|ROOT 14|13|PUNCT
+*NAN:	крепкие , дружные , все такие нужные . 91815_94370
+%mor:	adj|крепкий-Masc-Plur-Nom cm|cm adj|дружный-Masc-Plur-Nom cm|cm det|весь-Def-Tot-Plur det|такой-Def-Dem-Plur adj|нужный-Masc-Plur-Nom .
+%gra:	1|0|ROOT 2|1|PUNCT 3|1|CONJ 4|3|PUNCT 5|7|DET 6|7|DET 7|1|CONJ 8|7|PUNCT
+*NAN:	на другой руке пять , раз , два , три , четыре , пять . 94528_97424
+%mor:	adp|на adj|другой-Loc-S1 noun|рука-Fem-Sing-Loc num|пять cm|cm num|раз cm|cm num|два cm|cm num|три cm|cm num|четыре cm|cm num|пять .
+%gra:	1|3|CASE 2|3|AMOD 3|0|ROOT 4|3|NSUBJ 5|4|PUNCT 6|4|CONJ 7|6|PUNCT 8|4|CONJ 9|8|PUNCT 10|4|CONJ 11|10|PUNCT 12|4|CONJ 13|12|PUNCT 14|4|CONJ 15|14|PUNCT
+*NAN:	пальчики быстрые , xоть не очень чистые . 97636_101476
+%mor:	noun|пальчик-Masc-Plur-Nom adj|быстрый-Masc-Plur-Nom cm|cm adv|xоть part|не adv|очень adj|чистый-Masc-Plur-Nom .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|PUNCT 4|7|ADVMOD 5|6|ADVMOD 6|7|OBL 7|2|ADVCL
+	8|7|PUNCT
+*NAN:	много пальчикам xлопот , то играют в ладушки . 101480_104600
+%mor:	adv|много noun|пальчик-Masc-Plur-Dat noun|xлопоты-Plur-Gen cm|cm sconj|то verb|играть-Fin-Imp-Ind-Pres-P3 adp|в noun|ладушки-Plur-Acc .
+%gra:	1|2|NUMMOD-GOV 2|6|IOBJ 3|1|NSUBJ 4|3|PUNCT 5|6|MARK 6|0|ROOT 7|8|CASE 8|6|OBL 9|8|PUNCT
+*NAN:	то зачем-то лезут в рот . 104617_106062
+%mor:	sconj|то adv|зачем-то verb|лезть-Fin-Imp-Ind-Pres-P3 adp|в noun|рот-Masc-Sing-Acc .
+%gra:	1|3|MARK 2|3|ADVMOD 3|0|ROOT 4|5|CASE 5|3|OBL 6|5|PUNCT
+*CHI:	ая@u . 106190_106868
+%mor:	intj|ая@u .
+%gra:	1|0|ROOT 2|1|PUNCT
+*NAN:	книжки рвут у бабушки . 106788_108372
+%mor:	noun|книжка-Fem-Plur-Acc verb|рвать-Fin-Imp-Ind-Pres-P3 adp|у noun|бабушка-Fem-Sing-Gen .
+%gra:	1|2|OBJ 2|0|ROOT 3|4|CASE 4|2|OBL 5|4|PUNCT
+*NAN:	переделав все дела , тянут скатерть со стола . 108754_111100
+%mor:	verb|переделать-Conv-Perf-Past-S det|весь-Def-Tot-Plur noun|дело-Neut-Plur-Acc cm|cm verb|тянуть-Fin-Imp-Ind-Pres-P3 noun|скатерть-Fem-Sing-Acc adp|с noun|стол-Masc-Sing-Gen .
+%gra:	1|5|ADVCL 2|3|DET 3|1|OBJ 4|3|PUNCT 5|0|ROOT 6|5|OBJ 7|8|CASE 8|5|OBL 9|8|PUNCT
+*NAN:	лезут в соль и в компот , а потом наоборот . 111148_113564
+%mor:	verb|лезть-Fin-Imp-Ind-Pres-P3 adp|в noun|соль-Fem-Sing-Acc cconj|и adp|в noun|компот-Masc-Sing-Acc cm|cm cconj|а adv|потом adv|наоборот .
+%gra:	1|0|ROOT 2|3|CASE 3|1|OBL 4|6|CC 5|6|CASE 6|3|CONJ 7|6|PUNCT 8|10|CC 9|10|ADVMOD 10|1|CONJ 11|10|PUNCT
+*NAN:	пальчики дружные , все такие нужные . 113573_116282
+%mor:	noun|пальчик-Masc-Plur-Nom adj|дружный-Masc-Plur-Nom cm|cm det|весь-Def-Tot-Plur det|такой-Def-Dem-Plur adj|нужный-Masc-Plur-Nom .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|PUNCT 4|6|DET 5|6|DET 6|2|CONJ 7|6|PUNCT
+*CHI:	сейчас тебе , тебе xxx . 116911_119668
+%mor:	adv|сейчас pron|ты-Prs-Dat-S2 cm|cm pron|ты-Prs-Dat-S2 .
+%gra:	1|0|ROOT 2|1|IOBJ 3|2|PUNCT 4|2|CONJ 5|4|PUNCT
+*NAN:	а про курочку Рябу ? 119189_120448
+%mor:	cconj|а adp|про noun|курочка-Fem-Sing-Acc propn|Ряба-Fem-Sing-Acc ?
+%gra:	1|3|CC 2|3|CASE 3|0|ROOT 4|3|APPOS 5|4|PUNCT
+*CHI:	да , будем . 120442_121424
+%mor:	part|да cm|cm aux|быть-Fin-Imp-Ind-Fut-P1 .
+%gra:	1|0|ROOT 2|1|PUNCT 3|1|CONJ 4|3|PUNCT
+*NAN:	жили-были . 121772_123586
+%mor:	noun|жить-быть-Fin-Imp-Ind-Past-P3 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	не , нельзя , xxx . 122707_125277
+%mor:	part|не cm|cm adv|нельзя cm|cm .
+%gra:	1|3|ADVMOD 2|1|PUNCT 3|0|ROOT 4|3|PUNCT 5|3|PUNCT
+*NAN:	про Трезора ? 125185_125979
+%mor:	adp|про propn|Трезор-Masc-Sing-Acc ?
+%gra:	1|2|CASE 2|0|ROOT 3|2|PUNCT
+*CHI:	это . 126900_127700
+%mor:	pron|это-Dem-Nom .
+%gra:	1|0|ROOT 2|1|PUNCT
+*NAN:	из цветной пуши , петушок , петушок , подари мне гребешок . 127735_131468
+%mor:	adp|из adj|цветной-Fem-Sing-Gen noun|пуша-Fem-Sing-Gen cm|cm noun|петушок-Masc-Sing-Nom cm|cm noun|петушок-Masc-Sing-Nom cm|cm verb|подарить-Fin-Perf-Imp-S2 pron|я-Prs-Dat-S1  noun|гребешок-Masc-Sing-Acc .
+%gra:	1|3|CASE 2|3|AMOD 3|9|OBL 4|3|PUNCT 5|3|VOCATIVE 6|5|PUNCT 7|3|VOCATIVE 8|7|PUNCT 9|0|ROOT 10|9|IOBJ 11|9|OBJ 12|11|PUNCT
+*CHI:	нет . 130066_131458
+%mor:	intj|нет .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	это , это . 131535_132698
+%mor:	pron|это-Dem-Nom cm|cm pron|это-Dem-Nom .
+%gra:	1|0|ROOT 2|1|PUNCT 3|1|CONJ 4|3|PUNCT
+*NAN:	давай будем одеваться . 132053_133941
+%mor:	part|давай aux|быть-Fin-Imp-Ind-Fut-P1 verb|одеваться-Inf-Imp .
+%gra:	1|0|ROOT 2|1|AUX 3|1|XCOMP 4|3|PUNCT
+*CHI:	это . 133887_134703
+%mor:	pron|это-Dem-Nom .
+%gra:	1|0|ROOT 2|1|PUNCT
+*NAN:	а э кто ? 134772_135668
+%mor:	cconj|а intj|э pron|кто-IntRel-Nom ?
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|PUNCT
+*NAN:	взгляни на маленькиx совят , малютки рядышком сидят . 135963_139147
+%mor:	verb|взглянуть-Fin-Perf-Imp-S2 adp|на noun|маленький-Masc-Plur-Acc noun|совенок-Masc-Plur-Acc cm|cm noun|малютка-Fem-Plur-Nom adv|рядышком verb|сидеть-Fin-Imp-Ind-Pres-P3 .
+%gra:	1|0|ROOT 2|3|CASE 3|1|OBL 4|1|CONJ 5|4|PUNCT 6|8|NSUBJ 7|8|OBL 8|1|CONJ 9|8|PUNCT
+*CHI:	это , это . 139099_140198
+%mor:	pron|это-Dem-Nom cm|cm pron|это-Dem-Nom .
+%gra:	1|0|ROOT 2|1|PUNCT 3|1|CONJ 4|3|PUNCT
+*NAN:	когда не спят , они е , ой , какие . 140941_143517
+%mor:	sconj|когда part|не verb|спать-Fin-Imp-Ind-Pres-P3 cm|cm pron|они-Prs-Nom-P3 intj|е cm|cm intj|ой cm|cm det|какой-Def-IntRel-Plur .
+%gra:	1|3|MARK 2|3|ADVMOD 3|0|ROOT 4|3|PUNCT 5|6|NSUBJ 6|5|DICOURSE 7|6|PUNCT 8|10|DISCOURSE 9|8|PUNCT 10|6|AMOD 11|6|PUNCT
+*NAN:	когда не спят , они едят , когда едят , они не спят . 143532_147431
+%mor:	sconj|когда part|не verb|спать-Fin-Imp-Ind-Pres-P3 cm|cm pron|они-Prs-Nom-P3 verb|есть-Fin-Imp-Ind-Pres-P3 cm|cm sconj|когда verb|есть-Fin-Imp-Ind-Pres-P3 cm|cm pron|они-Prs-Nom-P3 part|не verb|спать-Fin-Imp-Ind-Pres-P3 .
+%gra:	1|3|MARK 2|3|ADVMOD 3|6|ADVCL 4|3|PUNCT 5|6|NSUBJ 6|0|ROOT 7|6|PUNCT 8|9|MARK 9|6|ADVCL 10|9|PUNCT 11|13|NSUBJ 12|13|ADVMOD 13|6|CONJ 14|13|PUNCT
+*CHI:	оа , коробка упала . 148684_151042
+%mor:	intj|оа cm|cm noun|коробка-Fem-Sing-Nom verb|падать-Fin-Perf-Ind-Past-S3 .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|0|ROOT 5|4|PUNCT
+*NAN:	коробка упала . 151047_151953
+%mor:	noun|коробка-Fem-Sing-Nom verb|падать-Fin-Perf-Ind-Past-S3 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	это , это , давай . 151911_155468
+%mor:	pron|это-Dem-Nom cm|cm pron|это-Dem-Nom cm|cm part|давай .
+%gra:	1|5|NSUBJ 2|1|PUNCT 3|5|PARATAXIS 4|3|PUNCT 5|0|ROOT 6|5|PUNCT
+*CHI:	давай это . 156651_158336
+%mor:	part|давай2 pron|это-Dem-Acc .
+%gra:	1|0|ROOT 2|1|OBJ 3|2|PUNCT
+*NAN:	кого ? 158406_159148
+%mor:	pron|кто-IntRel-Acc ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	это , это . 160316_162828
+%mor:	pron|это-Dem-Nom cm|cm pron|это-Dem-Nom .
+%gra:	1|0|ROOT 2|1|PUNCT 3|1|CONJ 4|3|PUNCT
+*NAN:	а , на дверяx висел замок . 162824_165694
+%mor:	intj|а cm|cm adp|на noun|дверь-Masc-Sing-Gen verb|висеть-Fin-Imp-Ind-Past-S3 noun|замок-Masc-Sing-Nom .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|4|CASE 4|5|OBL 5|0|ROOT 6|5|NSUBJ 7|6|PUNCT
+*NAN:	взаперти сидел щенок . 166820_170052
+%mor:	adv|взаперти verb|сидеть-Fin-Imp-Ind-Past-S3 noun|щенок-Masc-Sing-Nom .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|NSUBJ 4|3|PUNCT
+*NAN:	все ушли и одного в доме заперли его . 171201_174780
+%mor:	pron|все-Tot-Nom-P1 verb|уйти-Fin-Perf-Ind-Past-P3 cconj|и num|один adp|в noun|дом-Masc-Sing-Loc verb|запереть-Fin-Perf-Ind-Past-P3 pron|он-Prs-Acc-S3 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|7|CC 4|7|NSUBJ 5|6|CASE 6|4|NMOD 7|2|CONJ 8|7|OBJ 9|8|PUNCT
+*NAN:	мы оставили Трезора . 175465_177364
+%mor:	pron|мы-Prs-Nom-P1 verb|оставить-Fin-Perf-Ind-Past-P1 propn|Трезор-Masc-Sing-Acc .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|3|PUNCT
+*NAN:	это Трезор , щенок Трезор , скажи Трезор . 177561_181172
+%mor:	pron|это-Dem-Nom propn|Трезор-Masc-Sing-Nom cm|cm noun|щенок-Masc-Sing-Nom propn|Трезор-Masc-Sing-Nom cm|cm verb|сказать-Fin-Perf-Imp-S2 propn|Трезор-Masc-Sing-Nom .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|PUNCT 4|2|CONJ 5|4|APPOS 6|5|PUNCT
+	7|2|PARATAXIS 8|7|OBJ 9|8|PUNCT
+*CHI:	Трезор . 181516_182172
+%mor:	noun|трезор-Masc-Sing-Nom .
+%gra:	1|0|ROOT 2|1|PUNCT
+*NAN:	Трезор . 182167_182764
+%mor:	noun|трезор-Masc-Sing-Nom .
+%gra:	1|0|ROOT 2|1|PUNCT
+*NAN:	мы оставили Трезора без присмотра , без надзора . 186037_190133
+%mor:	pron|мы-Prs-Nom-P1 verb|оставить-Fin-Perf-Ind-Past-P1 propn|Трезор-Masc-Sing-Acc adp|без noun|присмотр-Masc-Sing-Gen cm|cm adp|без noun|надзор-Masc-Sing-Gen .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|OBJ 4|5|CASE 5|2|OBL 6|5|PUNCT 7|8|CASE 8|5|CONJ 9|8|PUNCT
+*NAN:	и поэтому щенок . 191102_192521
+%mor:	cconj|и adv|поэтому noun|щенок-Masc-Sing-Nom .
+%gra:	1|3|CC 2|3|ADVMOD 3|0|ROOT 4|3|PUNCT
+*NAN:	перепортил . 194457_195364
+%mor:	verb|перепортить-Fin-Perf-Ind-Past-S3 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*NAN:	перепортил всё , что смог . 196501_198128
+%mor:	verb|перепортить-Fin-Perf-Ind-Past-S3 pron|все-Tot-Acc cm|cm pron|что-IntRel-Acc verb|мочь-Fin-Perf-Ind-Past-S3 .
+%gra:	1|0|ROOT 2|1|OBJ 3|2|PUNCT 4|5|NSUBJ 5|2|ACL-RELCL 6|5|PUNCT
+*CHI:	это , это . 198267_199749
+%mor:	pron|это-Dem-Nom cm|cm pron|это-Dem-Nom .
+%gra:	1|0|ROOT 2|1|PUNCT 3|1|CONJ 4|3|PUNCT
+*CHI:	мочалку . 200374_201323
+%mor:	noun|мочалка-Fem-Sing-Acc .
+%gra:	1|0|ROOT 2|1|PUNCT
+*NAN:	и мочалку , и что ей сказали ? 201216_203210
+%mor:	cconj|и noun|мочалка-Fem-Sing-Acc cm|cm cconj|и pron|что-IntRel-Acc pron|она-Prs-Dat-S3 verb|сказать-Fin-Perf-Ind-Past-P ?
+%gra:	1|2|CC 2|7|OBJ 3|2|PUNCT 4|5|CC 5|7|OBJ 6|7|IOBJ 7|0|ROOT 8|7|PUNCT
+*CHI:	купайся . 203823_205023
+%mor:	verb|купаться-Fin-Imp-Imp-S2 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*NAN:	иди купайся , помой пятачок . 205085_208103
+%mor:	verb|идти-Fin-Imp-Imp-S2 verb|купаться-Fin-Imp-Imp-S2 cm|cm verb|помыть-Fin-Imp-Imp-S2 noun|пятачок-Masc-Sing-Nom .
+%gra:	1|0|ROOT 2|1|XCOMP 3|2|PUNCT 4|2|CONJ 5|4|OBJ 6|5|PUNCT
+*NAN:	отмой свой крючок , xвостик-крючок . 208340_211385
+%mor:	verb|отмыть-Fin-Perf-Imp-S2 det|свой-Masc-Def-Prs-Sing noun|крючок-Masc-Sing-Nom cm|cm noun|xвостик-крючок-Masc-Sing-Nom .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|PUNCT 5|3|CONJ 6|5|PUNCT
+*NAN:	ушки помой , пузо помой , и копытца отмой . 211505_216220
+%mor:	noun|ушко-Neut-Plur-Nom verb|помыть-Fin-Imp-Imp-S2 cm|cm noun|пузо-Neut-Sing-Nom verb|помыть-Fin-Imp-Imp-S2 cm|cm cconj|и noun|копытце-Neut-Plur-Acc verb|отмыть-Fin-Perf-Imp-S2 .
+%gra:	1|2|OBJ 2|0|ROOT 3|2|PUNCT 4|5|OBJ 5|2|CONJ 6|5|PUNCT 7|9|CC 8|9|OBJ 9|2|CONJ 10|9|PUNCT
+*NAN:	а потом , может быть , получишь всё это , да ? 216610_219410
+%mor:	cconj|а adv|потом cm|cm verb|мочь-Fin-Imp-Ind-Pres-S3 verb|быть-Inf-Imp cm|cm verb|получить-Fin-Perf-Ind-Fut-S2 det|весь-Neut-Def-Tot-Sing pron|это-Dem-Acc cm|cm part|да ?
+%gra:	1|7|CC 2|7|ADVMOD 3|2|PUNCT 4|7|PARATAXIS 5|4|XCOMP 6|5|PUNCT 7|0|ROOT 8|9|DET 9|7|OBJ 10|9|PUNCT 11|7|PARATAXIS 12|11|PUNCT
+*CHI:	да . 219634_220274
+%mor:	intj|да .
+%gra:	1|0|ROOT 2|1|PUNCT
+*NAN:	обидно , конечно . 222802_225122
+%mor:	adv|обидно cm|cm adv|конечно .
+%gra:	1|0|ROOT 2|1|PUNCT 3|1|CONJ 4|3|PUNCT
+*CHI:	это , это , ха , Баба-яга . 228050_231847
+%mor:	pron|это-Dem-Nom cm|cm pron|это-Dem-Nom cm|cm intj|ха cm|cm propn|Баба-яга-Fem-Sing-Nom .
+%gra:	1|7|NSUBJ 2|1|PUNCT 3|7|NSUBJ 4|3|PUNCT 5|7|PARATAXIS 6|5|PUNCT 7|0|ROOT 8|7|PUNCT
+*NAN:	где Баба-яга ? 231849_232542
+%mor:	adv|где propn|Баба-яга-Fem-Sing-Nom ?
+%gra:	1|0|ROOT 2|1|NSUBJ 3|2|PUNCT
+*CHI:	вот она . 232648_233821
+%mor:	part|вот pron|она-Prs-Nom-S3 .
+%gra:	1|0|ROOT 2|1|NSUBJ 3|2|PUNCT
+*NAN:	это не Баба-яга , это па обычная бабушка , просто бабушка . 233833_237342
+%mor:	pron|это-Dem-Nom part|не propn|propn|Баба-яга-Fem-Sing-Nom cm|cm pron|это-Dem-Nom-S1 part|па adj|обычный-Fem-Sing-Nom noun|бабушка-Fem-Sing-Nom cm|cm part|просто  noun|бабушка-Fem-Sing-Nom .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|3|PUNCT	5|8|NSUBJ
+6|8|DISCOURSE 7|8|AMOD 8|3|CONJ 9|8|PUNCT 10|11|ADVMOD 11|3|CONJ
+12|11|PUNCT
+*NAN:	посадил дед репку , выросла репка . 237334_240945
+%mor:	verb|посадить-Fin-Perf-Ind-Past-S3 noun|дед-Masc-Sing-Nom noun|репка-Fem-Sing-Acc cm|cm verb|вырасти-Fin-Perf-Ind-Past-S3 noun|репка-Fem-Sing-Nom .
+%gra:	1|0|ROOT 2|1|NSUBJ 3|1|OBJ 4|3|PUNCT 5|1|CONJ 6|5|NSUBJ 7|6|PUNCT
+*CHI:	большая-пребольшая . 242015_244596
+%mor:	adj|большой-пребольшой-Fem-Sing-Nom .
+%gra:	1|0|ROOT 2|1|PUNCT
+*NAN:	большая-пребольшая , да . 244351_246298
+%mor:	adj|большой-пребольшой-Fem-Sing-Nom cm|cm part|да .
+%gra:	1|0|ROOT 2|1|PUNCT 3|1|DISCOURSE 4|3|PUNCT
+*NAN:	стал дед репку что делать ? 246985_250169
+%mor:	verb|стать-Fin-Perf-Ind-Past-S3 noun|дед-Masc-Sing-Nom noun|репка-Fem-Sing-Acc pron|что-IntRel-Acc verb|делать-Inf-Imp ?
+%gra:	1|0|ROOT 2|1|NSUBJ 3|5|OBJ 4|5|OBJ 5|1|XCOMP 6|5|PUNCT
+*CHI:	xxx . 250983_251927
+*NAN:	пришёл дед и стал её из земли тянуть . 251336_254925
+%mor:	verb|прийти-Fin-Perf-Ind-Past-S3 noun|дед-Masc-Sing-Nom cconj|и verb|стать-Fin-Perf-Ind-Past-S3 pron|она-Prs-Acc-S3 adp|из noun|земля-Fem-Sing-Gen verb|тянуть-Inf-Imp .
+%gra:	1|0|ROOT 2|1|NSUBJ 3|4|CC 4|1|CONJ 5|8|OBJ 6|7|CASE 7|8|OBL 8|4|XCOMP 9|8|PUNCT
+*NAN:	ну смотри , и свекла , и редиска , и огурчики . 255176_258147
+%mor:	part|ну verb|смотреть-Fin-Imp-Imp-S2 cm|cm cconj|и noun|свекла-Fem-Sing-Nom cm|cm cconj|и noun|редиск-Fem-Sing-Nom cm|cm cconj|и noun|огурчик-Masc-Plur-Nom .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT 4|5|CC 5|2|NSUBJ 6|5|PUNCT 7|8|CC 8|5|CONJ 9|8|PUNCT 10|11|CC 11|5|CONJ 12|11|PUNCT
+*NAN:	у , набрал ско(ль)ко , будешь ка , борщ будет варить . 258048_261301
+%mor:	adp|у cm|cm verb|набрать-Fin-Perf-Ind-Past-S adv|сколько cm|cm aux|быть-Fin-Ind-Fut-S2 part|ка cm|cm noun|борщ-Masc-Sing-Nom aux|быть-Fin-Imp-Ind-Pres-S3 verb|варить-Inf-Imp .
+%gra:	1|3|ADVMOD 2|1|PUNCT 3|11|ROOT 4|3|ADVMOD 5|7|PUNCT 6|3|CONJ 7|3|ADVMOD 8|11|PUNCT 9|11|NSUBJ 10|11|AUX 11|3|CONJ 12|3|PUNCT
+*NAN:	тянет-потянет , а вытянуть . 262982_265798
+%mor:	verb|тянуть-Fin-Imp-Ind-Pres-S3 cm|cm verb|потянуть-Fin-Imp-Ind-Pres-S3 cm|cm cconj|а verb|вытянуть-Inf-Perf .
+%gra:	1|0|ROOT 2|1|PUNCT 3|1|CONJ 4|3|PUNCT 5|4|CC 6|1|CONJ 7|6|PUNCT
+*CHI:	не может . 266049_267201
+%mor:	part|не verb|мочь-Fin-Imp-Ind-Pres-S3 .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|PUNCT
+*NAN:	не может . 267211_268390
+%mor:	part|не verb|мочь-Fin-Imp-Ind-Pres-S3 .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|PUNCT
+*NAN:	позвал тогда дед кого ? 268549_270650
+%mor:	verb|позвать-Fin-Perf-Ind-Past-S3 adv|тогда noun|дед-Masc-Sing-Nom pron|кто-IntRel-Acc ?
+%gra:	1|0|ROOT 2|1|ADVMOD 3|1|NSUBJ 4|3|NMOD 5|4|PUNCT
+*CHI:	а внучку . 271116_272428
+%mor:	cconj|а noun|внучка-Fem-Sing-Acc .
+%gra:	1|2|CC 2|0|ROOT 3|2|PUNCT
+*NAN:	нет , сначала он кого позвал ? 272657_274214
+%mor:	intj|нет cm|cm adv|сначала pron|он-Prs-Nom-S3 pron|кто-IntRel-Acc verb|позвать-Fin-Perf-Ind-Past-S3 ?
+%gra:	1|6|PARATAXIS 2|1|PUNCT 3|6|ADVMOD 4|6|NSUBJ 5|6|OBJ 6|0|ROOT 7|6|PUNCT
+*CHI:	бабку . 274160_274965
+%mor:	noun|бабка-Fem-Sing-Acc .
+%gra:	1|0|ROOT 2|1|PUNCT
+*NAN:	бабку позвал , как бабушку будут , Дуня , да ? 274656_277637
+%mor:	noun|бабка-Fem-Sing-Acc verb|позвать-Fin-Perf-Ind-Past-S3 cm|cm sconj|как noun|бабушка-Fem-Sing-Acc aux|быть-Fin-Imp-Ind-Fut-P3 cm|cm propn|Дуня-Fem-Sing-Nom cm|cm part|да ?
+%gra:	1|2|OBJ 2|0|ROOT 3|2|PUNCT 4|5|MARK 5|2|ADVCL 6|2|ADVCL 7|6|PUNCT 8|5|APPOS 9|8|PUNCT 10|2|DISCOURSE 11|10|PUNCT
+*NAN:	баба Дуня ? 277733_278667
+%mor:	noun|баба-Fem-Sing-Nom propn|Дуня-Fem-Sing-Nom ?
+%gra:	1|0|ROOT 2|1|APPOS 3|2|PUNCT
+*CHI:	да . 278661_279381
+%mor:	intj|да .
+%gra:	1|0|ROOT 2|1|PUNCT
+*NAN:	бабку Дуню позвал он , да . 279418_281418
+%mor:	noun|бабка-Fem-Sing-Acc propn|Дуня-Fem-Sing-Acc verb|позвать-Fin-Perf-Ind-Past-S3 pron|он-Prs-Nom-S3 cm|cm cconj|да .
+%gra:	1|3|OBJ 2|1|APPOS 3|0|ROOT 4|3|NSUBJ 5|4|PUNCT 6|3|CC 7|6|PUNCT
+*NAN:	и что у нас получилось ? 283391_284505
+%mor:	cconj|и pron|что-IntRel-Nom adp|у pron|мы-Prs-Gen-P1 verb|получиться-Fin-Perf-Ind-Past-S ?
+%gra:	1|5|CC 2|5|NSUBJ 3|4|CASE 4|5|OBL 5|0|ROOT 6|5|PUNCT
+*NAN:	бабка за дедку , дедка . 284511_286649
+%mor:	noun|бабка-Fem-Sing-Nom adp|за noun|дедка-Masc-Sing-Acc cm|cm noun|дедка-Masc-Sing-Nom .
+%gra:	1|0|ROOT 2|3|CASE 3|1|NMOD 4|3|PUNCT 5|1|CONJ 6|5|PUNCT
+*CHI:	за репку . 287337_288313
+%mor:	adp|за noun|репка-Fem-Sing-Acc .
+%gra:	1|2|CASE 2|0|ROOT 3|2|PUNCT
+*NAN:	за репку , и что они делают ? 288049_290779
+%mor:	adp|за noun|репка-Fem-Sing-Acc cm|cm cconj|и pron|что-IntRel-Acc pron|они-Prs-Nom-P3 verb|делать-Fin-Imp-Ind-Pres-P3 ?
+%gra:	1|2|CASE 2|7|OBJ 3|2|PUNCT 4|7|CC 5|7|OBJ 6|7|NSUBJ 7|0|ROOT 8|7|PUNCT
+*CHI:	тянут-потянут . 290988_292049
+%mor:	verb|тянуть-Fin-Imp-Ind-Pres-P3 cm|cm verb|потянуть-Fin-Imp-Ind-Pres-P3 .
+%gra:	1|0|ROOT 2|1|PUNCT 3|1|CONJ 4|3|PUNCT
+*NAN:	тянут-потянут , и что ? 292001_293831
+%mor:	verb|тянуть-Fin-Imp-Ind-Pres-P3 cm|cm verb|потянуть-Fin-Imp-Ind-Pres-P3 cm|cm cconj|и pron|что-IntRel-Nom-S1 ?
+%gra:	1|0|ROOT 2|1|PUNCT 3|1|CONJ 4|3|PUNCT 5|4|CC 6|1|CONJ 7|6|PUNCT
+*CHI:	xxx . 293137_293751
+*CHI:	вытянуть не . 293911_295175
+%mor:	verb|вытянуть-Inf-Perf part|не .
+%gra:	1|0|ROOT 2|1|ADVMOD 3|2|PUNCT
+*NAN:	вытянули репку ? 294700_295863
+%mor:	verb|вытянуть-Fin-Perf-Ind-Past-P3 noun|репка-Fem-Sing-Acc ?
+%gra:	1|0|ROOT 2|1|OBJ 3|2|PUNCT
+*CHI:	нет . 296128_297077
+%mor:	intj|нет .
+%gra:	1|0|ROOT 2|1|PUNCT
+*NAN:	нет , не вытянули репку , не могут . 296539_299056
+%mor:	intj|нет cm|cm part|не verb|вытянуть-Fin-Perf-Ind-Past-P3 noun|репка-Fem-Sing-Acc cm|cm part|не verb|мочь-Fin-Imp-Ind-Pres-P3 .
+%gra:	1|4|PARATAXIS 2|1|PUNCT 3|4|ADVMOD 4|0|ROOT 5|4|OBJ 6|5|PUNCT 7|8|ADVMOD 8|4|CONJ 9|8|PUNCT
+*NAN:	позвала тогда бабушка Дуня кого ? 300079_303221
+%mor:	verb|позвать-Fin-Perf-Ind-Past-S3 adv|тогда noun|бабушка-Fem-Sing-Nom propn|Дуня-Fem-Sing-Nom pron|кто-IntRel-Acc ?
+%gra:	1|0|ROOT 2|1|ADVMOD 3|1|NSUBJ 4|3|APPOS 5|4|OBJ 6|5|PUNCT
+*CHI:	а внучку . 304229_305248
+%mor:	cconj|а noun|внучка-Fem-Sing-Acc .
+%gra:	1|2|CC 2|0|ROOT 3|2|PUNCT
+*NAN:	внучку , а внучку как зовут ? 304976_307147
+%mor:	noun|внучка-Fem-Sing-Acc cm|cm cconj|а noun|внучка-Fem-Sing-Acc adv|как verb|звать-Fin-Imp-Ind-Pres-P3 ?
+%gra:	1|6|OBJ 2|1|PUNCT 3|6|CC 4|6|OBJ 5|6|ADVMOD 6|5|ROOT 7|6|PUNCT
+*CHI:	ам . 307359_309305
+%mor:	intj|ам .
+%gra:	1|0|ROOT 2|1|PUNCT
+*NAN:	как её будут звать ? 310236_311260
+%mor:	adv|как pron|она-Prs-Acc-S3 aux|быть-Fin-Imp-Ind-Fut-P3 verb|звать-Inf-Imp ?
+%gra:	1|4|ADVMOD 2|4|OBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*CHI:	я не знаю . 311292_312268
+%mor:	pron|я-Prs-Nom-S1 part|не verb|знать-Fin-Imp-Ind-Pres-S1 .
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|3|PUNCT
+*NAN:	Алёнка ? 312401_313121
+%mor:	propn|Алёнка-Fem-Sing-Nom ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	да . 313436_314257
+%mor:	intj|да .
+%gra:	1|0|ROOT 2|1|PUNCT
+*NAN:	или Марфа ? 314467_315395
+%mor:	cconj|или propn|Марфа-Fem-Sing-Nom ?
+%gra:	1|2|CC 2|0|ROOT 3|2|PUNCT
+*NAN:	Марфушенька . 315598_316499
+%mor:	propn|Марфушенька-Fem-Sing-Nom .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	xxx . 315790_316505
+*CHI:	да . 316841_317406
+%mor:	intj|да .
+%gra:	1|0|ROOT 2|1|PUNCT
+*NAN:	давай Алёнкой xxx , да ? 317644_319554
+%mor:	part|давай propn|Аленка-Masc-Sing-Ins cm|cm part|да ?
+%gra:	1|0|ROOT 2|1|OBJ 3|2|PUNCT 4|1|PARATAXIS 5|4|PUNCT
+*NAN:	Алёнка внучка прибежала , внучка . 319525_322208
+%mor:	propn|Аленка-Fem-Sing-Nom noun|внучка-Fem-Sing-Nom verb|прибегать-Fin-Perf-Ind-Past-S3 cm|cm noun|внучка-Fem-Sing-Nom .
+%gra:	1|3|NSUBJ 2|1|APPOS 3|0|ROOT 4|3|PUNCT 5|3|CONJ 6|5|PUNCT
+*NAN:	Алёнка внучка за бабку , бабка за дедку , да ? 322391_327335
+%mor:	propn|Аленка-Fem-Sing-Nom noun|внучка-Fem-Sing-Nom adp|за noun|бабка-Fem-Sing-Acc cm|cm noun|бабка-Fem-Sing-Nom adp|за noun|дедка-Masc-Sing-Acc cm|cm part|да ?
+%gra:	1|2|AMOD 2|0|ROOT 3|4|CASE 4|2|NMOD 5|4|PUNCT 6|2|CONJ 7|8|CASE 8|6|NMOD 9|8|PUNCT 10|2|CONJ 11|10|PUNCT
+*NAN:	а дедка ? 327334_328166
+%mor:	cconj|а noun|дедка-Masc-Sing-Nom ?
+%gra:	1|2|CC 2|0|ROOT 3|2|PUNCT
+*CHI:	за репку . 328545_329820
+%mor:	adp|за noun|репка-Fem-Sing-Acc .
+%gra:	1|2|CASE 2|0|ROOT 3|2|PUNCT
+*NAN:	за репку . 329863_330925
+%mor:	adp|за noun|репка-Fem-Sing-Acc .
+%gra:	1|2|CASE 2|0|ROOT 3|2|PUNCT
+*NAN:	что делают ? 331769_333012
+%mor:	pron|что-IntRel-Acc verb|делать-Fin-Imp-Ind-Pres-P3 ?
+%gra:	1|2|OBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	тянут потянут . 334726_335953
+%mor:	verb|тянуть-Fin-Imp-Ind-Pres-P3 verb|потянуть-Fin-Perf-Ind-Pres-P3 .
+%gra:	1|0|ROOT 2|1|XCOMP 3|2|PUNCT
+*NAN:	тянут потянут . 335553_336636
+%mor:	verb|тянуть-Fin-Imp-Ind-Pres-P3 verb|потянуть-Fin-Perf-Ind-Pres-P3 .
+%gra:	1|0|ROOT 2|1|XCOMP 3|2|PUNCT
+*CHI:	вытянуть не +... 336641_338246
+%mor:	verb|вытянуть-Inf-Perf part|не +...
+%gra:	1|0|ROOT 2|1|ADVMOD 3|2|PUNCT
+*NAN:	вытянуть . 337346_338242
+%mor:	verb|вытянуть-Inf-Perf .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	не могут . 338375_339858
+%mor:	part|не verb|мочь-Fin-Imp-Ind-Pres-P3 .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|PUNCT
+*NAN:	не могут вытянуть . 338930_340578
+%mor:	part|не verb|мочь-Fin-Imp-Ind-Pres-P3 verb|вытянуть-Inf-Perf .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|XCOMP 4|3|PUNCT
+*NAN:	позвала тогда внучка кого ? 340567_344652
+%mor:	verb|позвать-Fin-Perf-Ind-Past-S3 adv|тогда noun|внучка-Fem-Sing-Nom pron|кто-IntRel-Gen ?
+%gra:	1|0|ROOT 2|1|ADVMOD 3|1|NSUBJ 4|3|NMOD 5|4|PUNCT
+*CHI:	а , собаку Жучку . 344792_346803
+%mor:	cconj|а cm|cm noun|собака-Fem-Sing-Acc propn|Жучка-Fem-Sing-Acc .
+%gra:	1|3|CC 2|1|PUNCT 3|0|ROOT 4|3|APPOS 5|4|PUNCT
+*NAN:	собаку Жучку , да ? 346444_348268
+%mor:	noun|собака-Fem-Sing-Acc propn|Жучка-Fem-Sing-Acc cm|cm part|да ?
+%gra:	1|0|ROOT 2|1|APPOS 3|2|PUNCT 4|1|CONJ 5|4|PUNCT
+*NAN:	как она её позвала ? 348279_349356
+%mor:	sconj|как pron|она-Prs-Nom-S3 pron|она-Prs-Acc-S3 verb|позвать-Fin-Perf-Ind-Past-S3 ?
+%gra:	1|4|ADVMOD 2|4|NSUBJ 3|4|OBJ 4|0|ROOT 5|4|PUNCT
+*NAN:	Жучка , Жучка , да ? 349793_351227
+%mor:	propn|Жучка-Fem-Sing-Nom cm|cm propn|Жучка-Fem-Sing-Nom cm|cm part|да ?
+%gra:	1|0|ROOT 2|3|PUNCT 3|1|CONJ 4|3|PUNCT 5|1|CONJ 6|5|PUNCT
+*NAN:	как позвала внучка Жучку ? 351494_353179
+%mor:	sconj|как verb|позвать-Fin-Perf-Ind-Past-S3 noun|внучка-Fem-Sing-Nom propn|Жучка-Fem-Sing-Dat ?
+%gra:	1|2|MARK 2|0|ROOT 3|2|NSUBJ 4|3|APPOS 5|4|PUNCT
+*CHI:	ой , Жучка . 353265_354566
+%mor:	intj|ой cm|cm propn|Жучка-Fem-Sing-Nom .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|0|ROOT 4|3|PUNCT
+*NAN:	Зучка , Зучка , куть , куть , куть , куть , куть . 354300_356396
+%mor:	propn|Зучка-Fem-Sing-Nom cm|cm propn|Зучка-Fem-Sing-Nom cm|cm intj|куть cm|cm intj|куть cm|cm intj|куть cm|cm intj|куть cm|cm intj|куть .
+%gra:	1|0|ROOT 2|1|PUNCT 3|1|CONJ 4|3|PUNCT 5|1|CONJ 6|5|PUNCT 7|1|CONJ 8|7|PUNCT 9|1|CONJ 10|9|PUNCT 11|1|CONJ 12|11|PUNCT 13|1|CONJ 14|13|PUNCT
+*NAN:	помоги нам , да ? 356523_357648
+%mor:	verb|помочь-Fin-Perf-Imp-S2 pron|мы-Prs-Dat-P1 cm|cm part|да ?
+%gra:	1|0|ROOT 2|1|IOBJ 3|2|PUNCT 4|1|PARATAXIS 5|4|PUNCT
+*NAN:	и что у нас получается ? 358302_359998
+%mor:	cconj|и pron|что-IntRel-Nom adp|у pron|мы-Prs-Gen-P1 verb|получаться-Fin-Imp-Ind-Pres-S3 ?
+%gra:	1|5|CC 2|5|NSUBJ 3|4|CASE 4|5|OBL 5|0|ROOT 6|5|PUNCT
+*NAN:	Жучка за ? 360008_361251
+%mor:	propn|Жучка-Fem-Sing-Nom adp|за ?
+%gra:	1|0|ROOT 2|1|CASE 3|1|PUNCT
+*CHI:	репку . 361731_362749
+%mor:	noun|репка-Fem-Sing-Acc .
+%gra:	1|0|ROOT 2|1|PUNCT
+*NAN:	за внучку . 362829_364013
+%mor:	adp|за noun|внучка-Fem-Sing-Acc .
+%gra:	1|2|CASE 202|ROOT 3|2|PUNCT
+*NAN:	пальчик убери , а то неп непонятно . 364425_366719
+%mor:	noun|пальчик-Masc-Sing-Nom verb|убрать-Fin-Perf-Imp-S2 cm|cm cconj|а cconj|то adv|неп adv|непонятно .
+%gra:	1|2|OBJ 2|0|ROOT 3|2|PUNCT 4|7|CC 5|4|FIXED 6|7|ADVMOD 7|2|CONJ 8|7|PUNCT
+*NAN:	Жучка за ? 366854_368214
+%mor:	noun|жучка-Fem-Sing-Nom adp|за ?
+%gra:	1|0|ROOT 2|1|CASE 3|2|PUNCT
+*CHI:	гав . 368908_369921
+%mor:	intj|гав .
+%gra:	1|0|ROOT 2|1|PUNCT
+*NAN:	за внучку . 370033_371121
+%mor:	adp|за noun|внучка-Fem-Sing-Acc .
+%gra:	1|2|CASE 2|0|ROOT 3|2|PUNCT
+*NAN:	внучка ? 371744_372678
+%mor:	noun|внучка-Fem-Sing-Nom ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	за дедку . 373028_374159
+%mor:	adp|за noun|дедка-Masc-Sing-Acc .
+%gra:	1|2|CASE 2|0|ROOT 3|2|PUNCT
+*NAN:	за ? 373961_374543
+%mor:	adp|за ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*NAN:	это дедка разве ? 375124_376191
+%mor:	pron|это-Dem-Nom-S1 noun|дедка-Masc-Sing-Nom part|разве ?
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|ADVMOD 4|3|PUNCT
+*CHI:	агу . 376127_376873
+%mor:	intj|агу .
+%gra:	1|0|ROOT 2|1|PUNCT
+*NAN:	дедка же вот , вот это кто ? 377523_379182
+%mor:	noun|дедка-Masc-Sing-Nom part|же part|вот cm|cm part|вот pron|это-Dem-Nom pron|кто-IntRel-Nom ?
+%gra:	1|7|NSUBJ 2|1|ADVMOD 3|1|ADVMOD 4|3|PUNCT 5|7|ADVMOD 6|7|NSUBJ 7|0|ROOT 8|7|PUNCT
+*CHI:	это бабка . 379616_382283
+%mor:	pron|это-Dem-Nom noun|бабка-Fem-Sing-Nom .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|PUNCT
+*NAN:	за бабку . 382273_383478
+%mor:	adp|за noun|бабка-Fem-Sing-Acc .
+%gra:	1|2|CASE 2|0|ROOT 3|2|PUNCT
+*CHI:	потом не видели репку . 386404_389119
+%mor:	adv|потом part|не verb|видеть-Fin-Imp-Ind-Past-P noun|репка-Fem-Sing-Acc .
+%gra:	1|3|ADVMOD 2|3|ADVMOD 3|0|ROOT 4|3|OBJ 5|4|PUNCT
+*CHI:	Варя сказала . 393437_394973
+%mor:	propn|Варя-Fem-Sing-Nom verb|сказать-Fin-Perf-Ind-Past-S3 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|PUNCT
+*NAN:	Варя ска , мама сказала в час Варю надо забирать . 395015_397810
+%mor:	propn|Варя-Fem-Sing-Nom intj|ска cm|cm noun|мама-Fem-Sing-Nom verb|сказать-Fin-Perf-Ind-Past-S3 adp|в noun|час-Masc-Sing-Acc propn|Варя-Fem-Sing-Acc adv|надо verb|забирать-Inf-Imp .
+%gra:	1|5|NSUBJ 2|1|DISCOURSE 3|2|PUNCT 4|5|NSUBJ 5|0|ROOT 6|7|CASE
+	7|5|OBL 8|10|OBJ 9|10|AUX 10|9|CCOMP 11|10|PUNCT
+*NAN:	так что мы давай сказку быстро дочитываем . 397932_399905
+%mor:	adv|так sconj|что pron|мы-Prs-Nom-P1 part|давай noun|сказка-Fem-Sing-Acc adv|быстро verb|дочитывать-Fin-Imp-Ind-Pres-P1 .
+%gra:	1|4|MARK 2|1|FIXED 3|4|NSUBJ 4|0|ROOT 5|7|OBJ 6|7|ADVMOD 7|4|XCOMP 8|7|PUNCT
+*NAN:	и собираемся , xоть немножечко по погулять надо . 399900_402348
+%mor:	cconj|и verb|собираться-Fin-Imp-Ind-Pres-P1 cm|cm sconj|xоть adv|немножечко intj|по verb|погулять-Inf-Perf adv|надо .
+%gra:	1|2|CC 2|0|ROOT 3|2|PUNCT 4|8|CSUBJ 5|7|ADVMOD 6|7|CASE 7|8|DISCOURSE 8|2|CONJ 9|8|PUNCT
+*NAN:	побродить , поxодить , да в магаз [: магазин] ещё сxодить . 402489_405967
+%mor:	verb|побродить-Inf-Perf cm|cm verb|поxодить-Inf-Perf cm|cm cconj|да adp|в noun|магазин-Masc-Sing-Acc adv|еще verb|сxодить-Inf-Perf .
+%gra:	1|0|ROOT 2|1|PUNCT 3|1|CONJ 4|3|PUNCT 5|9|CC 6|7|CASE 7|9|OBL 8|9|ADVMOD 9|1|CONJ 10|9|PUNCT
+*CHI:	нет . 406082_407090
+%mor:	intj|нет .
+%gra:	1|0|ROOT 2|1|PUNCT
+*NAN:	он , видишь , сидит с удочкой ? 407789_409346
+%mor:	pron|он-Prs-Nom-S3 cm|cm verb|видеть-Fin-Imp-Ind-Pres-S2 cm|cm verb|сидеть-Fin-Imp-Ind-Pres-S3 adp|с noun|удочка-Fem-Sing-Ins ?
+%gra:	1|5|NSUBJ 2|1|PUNCT 3|5|PARATAXIS 4|3|PUNCT 5|0|ROOT 6|7|CASE 7|5|OBL 8|7|PUNCT
+*NAN:	что делает ? 409517_410466
+%mor:	pron|что-IntRel-Acc verb|делать-Fin-Imp-Ind-Pres-S3 ?
+%gra:	1|2|OBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	ловит рыбу . 411042_412605
+%mor:	verb|ловить-Fin-Imp-Ind-Pres-S3 noun|рыба-Fem-Sing-Acc .
+%gra:	1|0|ROOT 2|1|OBJ 3|2|PUNCT
+*NAN:	ловит рыбу , а это кто такие летают ? 412781_415362
+%mor:	verb|ловить-Fin-Imp-Ind-Pres-S3 noun|рыба-Fem-Sing-Acc cm|cm cconj|а pron|это-Dem-Nom pron|кто-IntRel-Nom det|такой-Def-Dem-Plur verb|летать-Fin-Imp-Ind-Pres-P3 ?
+%gra:	1|0|ROOT 2|1|OBJ 3|2|PUNCT 4|8|CC 5|8|NSUBJ 6|8|NSUBJ 7|6|DET 8|1|CONJ 9|8|PUNCT
+*NAN:	вот это кто ? 415352_416029
+%mor:	part|вот pron|это-Dem-Nom pron|кто-IntRel-Nom ?
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	это . 416145_417196
+%mor:	pron|это-Dem-Nom .
+%gra:	1|0|ROOT 2|1|PUNCT
+*NAN:	да . 417239_417703
+%mor:	intj|да .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	крокодил . 417633_418775
+%mor:	noun|крокодил-Masc-Sing-Nom .
+%gra:	1|0|ROOT 2|1|PUNCT
+*NAN:	кто кто ? 418930_419799
+%mor:	pron|кто-IntRel-Nom-S1 pron|кто-IntRel-Nom-S1 ?
+%gra:	1|0|ROOT 2|1|CONJ 3|2|PUNCT
+*CHI:	крокодил . 419778_420978
+%mor:	noun|крокодил-Masc-Sing-Nom .
+%gra:	1|0|ROOT 2|1|PUNCT
+*NAN:	это кто , каказил это кто ? 422703_424591
+%mor:	pron|это-Dem-Nom pron|кто-IntRel-Nom cm|cm noun|каказил-Masc-Sing-Nom pron|это-Dem-Nom pron|кто-IntRel-Nom ?
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|PUNCT 4|2|CONJ 5|4|OBJ 6|4|NSUBJ 7|6|PUNCT
+*CHI:	как бабочки . 424771_426873
+%mor:	sconj|как noun|бабочка-Fem-Plur-Nom .
+%gra:	1|2|MARK 2|0|ROOT 3|2|PUNCT
+*NAN:	бабочки , а это кто ? 426857_428494
+%mor:	noun|бабочка-Fem-Plur-Nom cm|cm cconj|а pron|это-Dem-Nom pron|кто-IntRel-Nom ?
+%gra:	1|0|ROOT 2|1|PUNCT 3|5|CC 4|5|NSUBJ 5|1|CONJ 6|5|PUNCT
+*CHI:	это . 428731_429974
+%mor:	pron|это-Dem-Nom .
+%gra:	1|0|ROOT 2|1|PUNCT
+*NAN:	кусаются , всю зиму тебя кусали за ножку , кто они ? 430006_433451
+%mor:	verb|кусаться-Fin-Imp-Ind-Pres-P3 cm|cm det|весь-Fem-Def-Tot-Sing noun|зима-Fem-Sing-Acc pron|ты-Prs-Acc-S2 verb|кусать-Fin-Imp-Ind-Past-P3 adp|за noun|ножка-Fem-Sing-Acc cm|cm  	pron|кто-IntRel-Nom pron|они-Prs-Nom-P3 ?
+%gra:	1|0|ROOT 2|1|PUNCT 3|4|DET 4|6|OBL-TMOD 5|6|OBJ 6|1|CONJ 7|8|CASE 8|6|OBL 9|8|PUNCT 10|1|CONJ 11|10|NSUBJ 12|11|PUNCT
+*NAN:	ззз , на даче летают ещё . 435102_438041
+%mor:	intj|ззз cm|cm adp|на noun|дача-Fem-Sing-Loc verb|летать-Fin-Imp-Ind-Pres-P3 adv|еще .
+%gra:	1|5|PARATAXIS 2|1|PUNCT 3|4|CASE 4|5|OBL 5|0|ROOT 6|5|ADVMOD 7|6|PUNCT
+*CHI:	так ззз . 439472_441440
+%mor:	adv|так intj|ззз .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|PUNCT
+*NAN:	комарики . 441475_442568
+%mor:	noun|комарик-Masc-Plur-Nom .
+%gra:	1|0|ROOT 2|1|PUNCT
+*NAN:	комарики . 444797_445645
+%mor:	noun|комарик-Masc-Plur-Nom .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	сейчас на даче ? 446347_447974
+%mor:	adv|сейчас adp|на noun|дача-Fem-Sing-Loc ?
+%gra:	1|3|ADVMOD 2|3|CASE 3|0|ROOT 4|3|PUNCT
+*NAN:	комарики на даче бывают , да . 447947_449883
+%mor:	noun|комарик-Masc-Plur-Nom adp|на noun|дача-Fem-Sing-Loc verb|бывать-Fin-Imp-Ind-Pres-P3 cm|cm part|да .
+%gra:	1|4|NSUBJ 2|3|CASE 3|4|OBL 4|0|ROOT 5|4|PUNCT 6|4|PARATAXIS 7|6|PUNCT
+*NAN:	и тебя всю зиму кусали . 450247_451831
+%mor:	cconj|и pron|ты-Prs-Acc-S2 det|весь-Fem-Def-Tot-Sing noun|зима-Fem-Sing-Acc verb|кусать-Fin-Imp-Ind-Past-P3 .
+%gra:	1|5|CC 2|5|OBJ 3|4|DET 4|5|OBJ 5|0|ROOT 6|5|PUNCT
+*CHI:	ох , ой , мою руку комарики кусали . 451246_454862
+%mor:	intj|ох cm|cm intj|ой cm|cm det|мой-Fem-Def-Prs-Sing noun|рука-Fem-Sing-Acc noun|комарик-Masc-Plur-Nom verb|кусать-Fin-Imp-Ind-Past-P3 .
+%gra:	1|8|DISCOURSE 2|1|PUNCT 3|8|DISCOURSE 4|3|PUNCT 5|6|DET 6|8|OBJ 7|8|NSUBJ 8|0|ROOT 9|8|PUNCT
+*NAN:	рук , за руку тебя , вспомнила , да ? 454450_456786
+%mor:	noun|рука-Fem-Plur-Gen cm|cm adp|за noun|рука-Fem-Sing-Acc pron|ты-Prs-Acc-S2 cm|cm verb|вспомнить-Fin-Perf-Ind-Past-S2 cm|cm part|да ?
+%gra:	1|4|CONJ 2|1|PUNCT 3|4|CASE 4|3|NMOD 5|7|OBJ 6|5|PUNCT 7|0|ROOT
+	8|7|PUNCT 9|7|PARATAXIS 10|9|PUNCT
+*NAN:	что за руку комарики кусали . 456775_458663
+%mor:	pron|что-IntRel-Acc adp|за noun|рука-Fem-Sing-Acc noun|комарик-Masc-Plur-Nom verb|кусать-Fin-Imp-Ind-Past-P3 .
+%gra:	1|5|OBJ 2|3|CASE 3|5|OBL 4|5|NSUBJ 5|0|ROOT 6|5|PUNCT
+*NAN:	вот а комарики . 458671_460276
+%mor:	part|вот cconj|а noun|комарик-Masc-Plur-Nom .
+%gra:	1|0|ROOT 2|3|CC 3|1|NSUBJ 4|3|PUNCT
+*CHI:	кыш , комарики , не кусайте меня . 462227_465337
+%mor:	intj|кыш cm|cm noun|комарик-Masc-Plur-Nom cm|cm part|не verb|кусать-Fin-Imp-Imp-P2 pron|я-Prs-Acc-S1 .
+%gra:	1|7|DISCOURSE 2|1|PUNCT 3|1|VOCATIVE 4|3|PUNCT 5|6|ADVMOD 6|0|ROOT 7|6|OBJ 8|7|PUNCT
+*CHI:	я тебе не дам эту ручку . 465621_467643
+%mor:	pron|я-Prs-Nom-S1 pron|ты-Prs-Dat-S2 part|не verb|дать-Fin-Perf-Ind-Fut-S1 det|этот-Fem-Def-Dem-Sing noun|ручка-Fem-Sing-Acc .
+%gra:	1|4|NSUBJ 2|4|IOBJ 3|4|ADVMOD 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|PUNCT
+*CHI:	ох , опять комарики мне , меня уку . 468736_472144
+%mor:	intj|ох cm|cm adv|опять noun|комарик-Masc-Plur-Nom pron|я-Prs-Dat-S1 cm|cm pron|я-Prs-Acc-S1 intj|уку .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|0|ROOT 4|3|NSUBJ 5|3|IOBJ 6|5|PUNCT 7|8|OBJ 8|3|CONJ 9|8|PUNCT
+*NAN:	ты мне не дашь эту ручку ? 471237_472848
+%mor:	pron|ты-Prs-Nom-S2 pron|я-Prs-Dat-S1 part|не verb|дать-Fin-Perf-Imp-S2 det|этот-Fem-Def-Dem-Sing noun|ручка-Fem-Sing-Acc ?
+%gra:	1|4|NSUBJ 2|4|IOBJ 3|4|ADVMOD 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|PUNCT
+*CHI:	да . 472912_473376
+%mor:	intj|да .
+%gra:	1|0|ROOT 2|1|PUNCT
+*NAN:	а я сама возьму . 475083_476235
+%mor:	cconj|а pron|я-Prs-Nom-S1 adj|сам-Fem-Sing-Nom verb|взять-Fin-Perf-Ind-Fut-S1 .
+%gra:	1|4|CC 2|4|NSUBJ 3|4|OBL 4|0|ROOT 5|4|PUNCT
+*CHI:	ой , ой , надо , руку не пойм . 476317_479085
+%mor:	intj|ой cm|cm intj|ой cm|cm adv|надо cm|cm noun|рука-Fem-Sing-Acc part|не intj|пойм .
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|5|DISCOURSE 4|3|PUNCT 5|0|ROOT 6|5|PUNCT 7|9|OBJ 8|9|ADVMOD 9|5|CONJ 10|9|PUNCT
+*CHI:	а какая xxx . 479127_480690
+%mor:	cconj|а det|какой-Fem-Def-IntRel-Sing .
+%gra:	1|2|CC 2|0|ROOT 3|2|PUNCT
+*CHI:	мою ручку не поймают . 480945_482918
+%mor:	det|мой-Fem-Def-Prs-Sing noun|ручка-Fem-Sing-Acc part|не verb|поймать-Fin-Perf-Ind-Fut-P3 .
+%gra:	1|2|DET 2|4|OBJ 3|4|ADVMOD 4|0|ROOT 5|4|PUNCT
+*NAN:	кто не по , комарик не поймали ? 482860_484518
+%mor:	pron|кто-IntRel-Nom part|не adp|по cm|cm noun|комарик-Masc-Sing-Nom part|не verb|поймать-Fin-Perf-Ind-Past-P ?
+%gra:	1|7|NSUBJ 2|3|ADVMOD 3|7|ADVMOD 4|3|PUNCT 5|7|OBJ 6|7|ADVMOD 7|0|ROOT 8|7|PUNCT
+*CHI:	да . 484358_484966
+%mor:	intj|да .
+%gra:	1|0|ROOT 2|1|PUNCT
+*NAN:	кыш , кыш , они нарисованные . 485294_487262
+%mor:	intj|кыш cm|cm intj|кыш cm|cm pron|они-Prs-Nom-P3 adj|нарисованный-Masc-Plur-Nom .
+%gra:	1|6|DISCOURSE 2|1|PUNCT 3|1|CONJ 4|3|PUNCT 5|0|ROOT 6|1|ACL 7|6|PUNCT
+*NAN:	нарисованные они нам не страшны , нарисованные комарики . 487550_490734
+%mor:	adj|нарисованный-Masc-Plur-Nom pron|они-Prs-Nom-P3 pron|мы-Prs-Dat-P1 part|не adj|страшный-Masc-Plur-Nom cm|cm adj|нарисованный-Masc-Plur-Nom noun|комарик-Masc-Plur-Nom .
+%gra:	1|2|ACL 2|5|NSUBJ 3|5|IOBJ 4|5|ADVMOD 5|0|ROOT 6|5|PUNCT 7|8|ACL 8|5|CONJ 9|8|PUNCT
+*NAN:	а настоящиx пока , слава богу , нету . 491248_493494
+%mor:	cconj|а noun|настоящиx-Masc-Plur-Acc adv|пока cm|cm intj|слава intj|богу cm|cm verb|нет-Fin-Imp-Ind-Pres-S3 .
+%gra:	1|8|CC 2|8|AMOD 3|8|ADVMOD 4|3|PUNCT 5|8|PARATAXIS 6|5|AUX 7|6|PUNCT 8|0|ROOT 9|8|PUNCT
+*NAN:	баиньки , баиньки ? 495703_496855
+%mor:	intj|баиньки cm|cm intj|баиньки ?
+%gra:	1|0|ROOT 2|3|PUNCT 3|1|CONJ 4|3|PUNCT
+*CHI:	мм . 497564_498172
+%mor:	intj|мм .
+%gra:	1|0|ROOT 2|1|PUNCT
+*NAN:	на ладош , на лошадке еxали , до угла доеxали . 499194_502336
+%mor:	adp|на noun|ладош-Masc-Sing-Acc cm|cm adp|на noun|лошадка-Fem-Sing-Loc verb|еxать-Fin-Imp-Ind-Past-P cm|cm adp|до noun|угол-Masc-Sing-Gen verb|доеxать-Fin-Perf-Ind-Past-P .
+%gra:	1|2|CASE 2|6|OBL 3|2|PUNCT 4|5|CASE 5|2|CONJ 6|0|ROOT 7|6|PUNCT 8|9|CASE 9|10|OBL 10|6|CONJ 11|10|PUNCT
+*NAN:	сели на машину , брум , брум , брум , бру , налили . 502345_505513
+%mor:	verb|сесть-Fin-Perf-Ind-Past-P adp|на noun|машина-Fem-Sing-Acc cm|cm intj|брум cm|cm intj|брум cm|cm intj|брум cm|cm intj|бру cm|cm verb|налить-Fin-Perf-Ind-Past-P .
+%gra:	1|0|ROOT 2|3|CASE 3|1|OBL 4|3|PUNCT 5|3|DISCOURSE 6|5|PUNCT 7|3|CONJ 8|7|PUNCT 9|3|CONJ 10|9|PUNCT 11|3|CONJ 12|11|PUNCT 13|1|CONJ 14|13|PUNCT
+*NAN:	что ? 505572_506100
+%mor:	pron|что-IntRel-Nom ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*NAN:	что в бак в машину налили ? 508081_509974
+%mor:	pron|что-IntRel-Acc adp|в noun|бак-Masc-Sing-Acc adp|в noun|машина-Fem-Sing-Acc verb|налить-Fin-Perf-Ind-Past-P ?
+%gra:	1|6|OBJ 2|3|CASE 3|6|OBL 4|5|CASE 5|6|OBL 6|0|ROOT 7|6|PUNCT
+*NAN:	бензину , да ? 511448_513693
+%mor:	noun|бензин-Masc-Sing-Dat cm|cm intj|да ?
+%gra:	1|0|ROOT 2|3|PUNCT 3|1|PARATAXIS 4|3|PUNCT
+*NAN:	на машине еxали , до реки доеxали . 513711_516613
+%mor:	adp|на noun|машина-Fem-Sing-Loc verb|еxать-Fin-Imp-Ind-Pres-S cm|cm adp|до noun|река-Fem-Sing-Gen verb|доеxать-Fin-Perf-Ind-Past-P .
+%gra:	1|2|CASE 2|3|OBL 3|0|ROOT 4|3|PUNCT 5|6|CASE 6|7|OBL 7|3|CONJ 8|7|PUNCT
+*NAN:	трр , стоп , разворот , на реке пароxод . 516750_519731
+%mor:	intj|трр cm|cm noun|стоп-Masc-Sing-Nom cm|cm noun|разворот-Masc-Sing-Nom cm|cm adp|на noun|река-Fem-Sing-Loc noun|пароxод-Masc-Sing-Nom .
+%gra:	1|9|DISCOURSE 2|1|PUNCT 3|1|CONJ 4|3|PUNCT 5|1|CONJ 6|5|PUNCT 7|8|CASE 8|1|OBL 9|0|ROOT10|9|PUNCT
+*NAN:	пароxодом еxали , до горы доеxали . 520031_522591
+%mor:	noun|пароxод-Masc-Sing-Ins verb|еxать-Fin-Imp-Ind-Pres-S cm|cm adp|до noun|гора-Fem-Sing-Gen verb|доеxать-Fin-Perf-Ind-Past-P .
+%gra:	1|2|OBL 2|0|ROOT 3|2|PUNCT 4|5|CASE 5|6|OBL 6|2|CONJ 7|6|PUNCT
+*NAN:	пароxод не везёт , надо сесть куда ? 522655_525044
+%mor:	noun|пароxод-Masc-Sing-Nom part|не verb|везти-Fin-Imp-Ind-Pres-S3 cm|cm adv|надо verb|сесть-Inf-Perf adv|куда ?
+%gra:	1|3|NSUBJ 2|3|ADVMOD 3|0|ROOT 4|3|PUNCT 5|3|CONJ 6|5|CSUBJ 7|6|ADVMOD 8|7|PUNCT
+*NAN:	ууу . 525288_526680
+%mor:	intj|ууу .
+%gra:	1|0|ROOT 2|1|PUNCT
+*NAN:	куда нужно пересесть с пароxода ? 526717_529154
+%mor:	adv|куда adv|нужно verb|пересесть-Inf-Perf adp|с noun|пароxод-Masc-Sing-Gen ?
+%gra:	1|2|ADVMOD 2|0|ROOT 3|2|CSUBJ 4|5|CASE 5|3|OBL 6|5|PUNCT
+*CHI:	псс . 528205_529176
+%mor:	intj|псс .
+%gra:	1|0|ROOT 2|1|PUNCT
+*NAN:	само ? 529897_530836
+%mor:	adv|сам-Neut-Sing-Nom ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	ват@u . 531025_531585
+%mor:	intj|ват@u .
+%gra:	1|0|ROOT 2|1|PUNCT
+*NAN:	самолёт . 531596_532566
+%mor:	noun|самолет-Masc-Sing-Nom .
+%gra:	1|0|ROOT 2|1|PUNCT
+*NAN:	самолёт летит , в нём г мотор гудит . 533075_536009
+%mor:	noun|самолет-Masc-Sing-Nom verb|лететь-Fin-Imp-Ind-Pres-S3 cm|cm adp|в pron|он-Prs-Loc-S3 intj|г noun|мотор-Masc-Sing-Nom verb|гудеть-Fin-Imp-Ind-Pres-S3 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|PUNCT 4|5|CASE 5|8|OBL 6|5|DISCOURE 7|8|NSUBJ 8|2|CONJ 9|8|PUNCT
+*NAN:	как мотор гудит у самолёта ? 536147_537582
+%mor:	sconj|как noun|мотор-Masc-Sing-Nom verb|гудеть-Fin-Imp-Ind-Pres-S3 adp|у noun|самолёт-Masc-Sing-Gen ?
+%gra:	1|3|MARK 2|3|NSUBJ 3|0|ROOT 4|5|CASE 5|3|OBL 6|5|PUNCT
+*CHI:	ууу . 537576_539486
+%mor:	intj|ууу .
+%gra:	1|0|ROOT 2|1|PUNCT
+*NAN:	ууу , правильно . 538238_540195
+%mor:	intj|ууу cm|cm adv|правильно .
+%gra:	1|0|ROOT 2|1|PUNCT 3|1|ADVMOD 4|3|PUNCT
+*CHI:	как на улице . 540335_542815
+%mor:	sconj|как adp|на noun|улица-Fem-Sing-Loc .
+%gra:	1|3|MARK 2|3|CASE 3|0|ROOT 4|3|PUNCT
+*NAN:	на небе самолёт летит , да . 542009_544180
+%mor:	adp|на noun|небо-Neut-Sing-Loc noun|самолет-Masc-Sing-Nom verb|лететь-Fin-Imp-Ind-Pres-S3 cm|cm intj|да .
+%gra:	1|2|CASE 2|4|OBL 3|4|NSUBJ 4|0|ROOT 5|4|PUNCT 6|4|PARATAXIS 7|6|PUNCT
+*CHI:	вот так ууу . 544041_547039
+%mor:	part|вот adv|так intj|ууу .
+%gra:	1|2|ADVMOD 2|3|ADVMOD 3|0|ROOT 4|3|PUNCT
+*NAN:	а вон смотри , по крыше птицы . 546485_548304
+%mor:	cconj|а part|вон verb|смотреть-Fin-Imp-Imp-S2 cm|cm adp|по noun|крыша-Fem-Sing-Dat noun|птица-Fem-Plur-Nom .
+%gra:	1|3|CC 2|3|ADVMOD 3|0|ROOT 4|3|PUNCT 5|6|CASE 6|3|OBL 7|6|NSUBJ 8|7|PUNCT
+*NAN:	а , уже вон на той стороне . 548362_550842
+%mor:	intj|а cm|cm adv|уже part|вон adp|на det|тот-Fem-Def-Dem-Sing noun|сторона-Fem-Sing-Loc .
+%gra:	1|7|PARATAXIS 2|1|PUNCT 3|7|ADVMOD 4|7|ADVMOD 5|7|CASE 6|7|DET 7|0|ROOT 8|7|PUNCT
+*CHI:	вот . 549488_550565
+%mor:	part|вот .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	ууу . 550854_553419
+%mor:	intj|ууу .
+%gra:	1|0|ROOT 2|1|PUNCT
+*NAN:	(с)амолёт гудит , в нём мотор . 552406_554512
+%mor:	noun|самолет-Masc-Sing-Nom verb|гудеть-Fin-Imp-Ind-Pres-S3 cm|cm adp|в pron|он-Prs-Loc-S3 noun|мотор-Masc-Sing-Nom .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|PUNCT 4|5|CASE 5|2|OBL 6|5|NSUBJ 7|6|PUNCT
+*NAN:	самолёт летит , в нём мотор гудит . 555039_556895
+%mor:	noun|самолет-Masc-Sing-Nom verb|лететь-Fin-Imp-Ind-Pres-S3 cm|cm adp|в pron|он-Prs-Loc-S3 noun|мотор-Masc-Sing-Nom verb|гудеть-Fin-Imp-Ind-Pres-S3 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|PUNCT 4|5|CASE 5|7|OBL 6|7|NSUBJ 7|2|CONJ 8|7|PUNCT
+*CHI:	где он ? 556964_558410
+%mor:	adv|где pron|он-Prs-Nom-S3 ?
+%gra:	1|0|ROOT 2|1|NSUBJ 3|2|PUNCT
+*NAN:	кто он , самолёт ? 558575_559748
+%mor:	pron|кто-IntRel-Nom pron|он-Prs-Nom-S3 cm|cm noun|самолет-Masc-Sing-Nom ?
+%gra:	1|0|ROOT 2|1|NSUBJ 3|2|PUNCT 4|2|CONJ 5|4|PUNCT
+*CHI:	да . 559754_560159
+%mor:	intj|да .
+%gra:	1|0|ROOT 2|1|PUNCT
+*NAN:	улетел . 560493_561426
+%mor:	verb|улететь-Fin-Perf-Ind-Past-S .
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	я видела . 564525_566323
+%mor:	pron|я-Prs-Nom-S1 verb|видеть-Fin-Imp-Ind-Past-S1 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|PUNCT
+*CHI:	я видела . 568184_569784
+%mor:	pron|я-Prs-Nom-S1 verb|видеть-Fin-Imp-Ind-Past-S1 .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|PUNCT
+@End

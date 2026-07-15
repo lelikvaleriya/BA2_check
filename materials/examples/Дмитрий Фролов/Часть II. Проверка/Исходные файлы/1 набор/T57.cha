@@ -1,0 +1,161 @@
+@UTF8
+@PID:	11312/a-00092591-0
+@Begin
+@Languages:	rus
+@Participants:	MOT Mother, NAN Nurse, CHI Target_Child
+@Options:	bullets
+@ID:	rus|RusLan|MOT||female|||Mother|||
+@ID:	rus|RusLan|NAN||female|||Nurse|||
+@ID:	rus|RusLan|CHI|1;06.26|female|||Target_Child|||
+@Media:	T57, video
+@Date:	29-JAN-2021
+@Types:	long, toyplay, TD
+*MOT:	хив@u i@s:eng don't@s:eng understand@s:eng . 0_1828
+%mor:	x|хив seng|i seng|t seng|understand .
+%gra:	1|0|ROOT 2|1|FLAT 3|1|FLAT 4|1|FLAT 5|4|PUNCT
+*NAN:	мгм . 0_1864
+%mor:	intj|мгм .
+%gra:	1|0|ROOT 2|1|PUNCT
+*NAN:	ну ладно , ещё будет ваши +... 1864_4955
+%mor:	part|ну part|ладно cm|cm adv|еще verb|быть-Fin-Imp-Ind-Pres-S3 det|ваш-Def-Prs-Plur +...
+%gra:	1|2|DISCOURSE 2|5|PARATAXIS 3|2|PUNCT 4|5|ADVMOD 5|0|ROOT 6|5|NSUBJ 7|6|PUNCT
+*NAN:	+, xыx xыx на вашей улице праздник . 4955_7884
+%mor:	intj|xыx intj|xыx adp|на det|ваш-Fem-Def-Prs-Sing-Loc noun|улица-Fem-Sing-Loc noun|праздник-Masc-Sing-Nom .
+%gra:	1|6|DISCOURSE 2|1|CONJ 3|5|CASE 4|5|DET 5|6|NMOD 6|0|ROOT 7|6|PUNCT
+*NAN:	петь ? 7884_9113
+%mor:	verb|петь-Inf-Imp-S ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*NAN:	чунга чанга синий небосвод . 9113_14011
+%mor:	intj|чунга intj|чанга adj|синий-Masc-Sing-Nom-S1 noun|небосвод-Masc-Sing-Nom .
+%gra:	1|4|DISCOURSE 2|1|FIXED 3|4|AMOD 4|0|ROOT 5|4|PUNCT
+*NAN:	чунга чанга , а ты когда же будешь петь у нас Тось ? 14011_17327
+%mor:	intj|чунга intj|чанга cm|cm cconj|а pron|ты-Prs-Nom-S2 adv|когда part|же aux|быть-Fin-Ind-Fut-S2 verb|петь-Inf-Imp-S adp|у pron|мы-Prs-Gen-P1 propn|Тося-Fem-Sing-Nom ?
+%gra:	1|9|DISCOURSE 2|1|FIXED 3|2|PUNCT 4|9|CC 5|9|NSUBJ 6|9|ADVMOD 7|6|ADVMOD 8|9|AUX 9|0|ROOT 10|11|CASE 11|9|OBL 12|9|VOCATIVE 13|12|PUNCT
+*CHI:	няау . 17327_18708
+%mor:	intj|няау .
+%gra:	1|0|ROOT 2|1|PUNCT
+*NAN:	слова говорить . 17327_19820
+%mor:	noun|слово-Neut-Plur-Acc verb|говорить-Inf-Imp-S .
+%gra:	1|2|OBJ 2|0|ROOT 3|2|PUNCT
+*NAN:	чунга чанга . 19820_22321
+%mor:	intj|чунга intj|чанга .
+%gra:	1|0|DISCOURSE 2|1|FIXED 3|2|PUNCT
+*NAN:	Тось ? 22321_23506
+%mor:	propn|Тося-Fem-Sing-Nom ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	мня@o мняу@o тут уимг@u пока . 23506_25864
+%mor:	x|мня x|мняу adv|тут x|уимг adv|пока .
+%gra:	1|4|FLAT 2|1|FLAT 3|4|ADVMOD 4|5|FLAT 5|0|ROOT 6|5|PUNCT
+%sit:	the mother is moking cat's sounds
+*NAN:	аxыx . 23506_26355
+%mor:	intj|аxыx .
+%gra:	1|0|ROOT 2|1|PUNCT
+*NAN:	мяу@o . 26355_28674
+%mor:	intj|мяу .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	очень много вы xотите . 26355_29748
+%mor:	adv|очень adv|много pron|вы-Prs-Nom-P2 verb|xотеть-Fin-Imp-Ind-P2 .
+%gra:	1|2|ADVMOD 2|4|ADVMOD 3|4|NSUBJ 4|0|ROOT 5|4|PUNCT
+*NAN:	мурр@o . 28674_31032
+%mor:	intj|мурр .
+%gra:	1|0|ROOT 2|1|PUNCT
+%sit:	the speaker is also reproduces cat's sounds
+*NAN:	а как кошечка споёт песенку ? 31032_34547
+%mor:	cconj|а adv|как noun|кошечка-Fem-Sing-Nom verb|спеть-Fin-Perf-Ind-Fut-S3 noun|песенка-Fem-Sing-Acc ?
+%gra:	1|4|CC 2|4|ADVMOD 3|4|NSUBJ 4|0|ROOT 5|4|OBJ 6|5|PUNCT
+*CHI:	мама мам . 34547_39051
+%mor:	x|мама x|мам .
+%gra:	1|0|ROOT 2|1|FLAT 3|2|PUNCT
+*NAN:	как как аx как аа Рома уу Васи аа песня про бабушку а песня про маму . 34547_42448
+%mor:	adv|как adv|как intj|аx adv|как intj|аа propn|Рома-Masc-Sing-Nom adp|уу propn|Вася-Fem-Sing-Gen intj|аа noun|песня-Fem-Sing-Nom adp|про noun|бабушка-Fem-Sing-Acc cconj|а noun|песня-Fem-Sing-Nom adp|про noun|мама-Fem-Sing-Acc .
+%gra:	1|10|ADVMOD 2|1|CONJ 3|10|DISCOURSE 4|1|CONJ 5|3|DISCOURSE 6|5|FLAT-NAME 7|8|CASE 8|5|DISCOURSE 9|10|DISCOURSE 10|0|ROOT 11|12|CASE 12|10|NMOD 13|14|CC 14|10|CONJ 15|16|CASE 16|14|NMOD 17|16|PUNCT
+*NAN:	ну давай . 42448_43589
+%mor:	part|ну verb|давать-Fin-Imp-Imp-S2 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+*NAN:	мама мамочка мамуличка мамочкааа xыx . 43589_48917
+%mor:	noun|мама-Fem-Sing-Nom noun|мамочка-Fem-Sing-Nom noun|мамуличка-Fem-Sing-Nom noun|мамочка-Fem-Sing-Nom intj|xыx .
+%gra:	1|0|ROOT 2|1|CONJ 3|1|CONJ 4|1|CONJ 5|1|DISCOURSE 6|5|PUNCT
+*CHI:	ыxыx . 43589_49913
+%mor:	intj|ыxыx .
+%gra:	1|0|ROOT 2|1|PUNCT
+*NAN:	песня про Свету . 48917_51603
+%mor:	noun|песня-Fem-Sing-Nom adp|про propn|Света-Fem-Sing-Acc .
+%gra:	1|0|ROOT 2|3|CASE 3|1|NMOD 4|3|PUNCT
+*CHI:	xыы . 51603_55188
+%mor:	intj|xыы .
+%gra:	1|0|ROOT 2|1|PUNCT
+*NAN:	Света Светочка Свелагазы [: Света] [*] ладно ладно песня про баву@u , песня про Васю . 51603_57156
+%mor:	noun|Света-Fem-Sing-Nom propn|Светочка-Fem-Sing-Nom propn|Свет-Fem-Sing-Nom part|ладно part|ладно noun|песня-Fem-Sing-Nom adp|про x|бава cm|cm noun|песня-Fem-Sing-Nom adp|про propn|Вася-Masc-Sing-Acc .
+%gra:	1|0|ROOT 2|1|CONJ 3|1|CONJ 4|1|DISCOURSE 5|4|CONJ 6|1|CONJ 7|8|CASE 8|6|NMOD 9|8|PUNCT 10|1|CONJ 11|12|CASE 12|10|NMOD 13|12|PUNCT
+*NAN:	Вася Васенька мой браат Ваxаxася . 57156_61446
+%mor:	propn|Вася-Masc-Sing-Nom propn|Васенька-Masc-Sing-Nom det|мой-Masc-Def-Prs-Sing-Nom noun|браат-Masc-Sing-Nom propn|Ваxаxася-Masc-Sing-Nom .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|4|DET 4|1|CONJ 5|4|APPOS 6|5|PUNCT
+%com:	the speaker starts laughing when she sings the last word
+*MOT:	Тося умеет про Лялёшу петь . 61446_65830
+%mor:	propn|Тося-Fem-Sing-Nom verb|уметь-Fin-Imp-Ind-Pres-S3 adp|про propn|Лялеша-Masc-Sing-Acc verb|петь-Inf-Imp-S .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|4|CASE 4|5|OBL 5|2|XCOMP 6|5|PUNCT
+*NAN:	правааря [: про Варю] [*] , давай песенку про Варю споём Тось . 65830_69650
+%mor:	adp|про propn|Варя-Fem-Sing-Acc cm|cm verb|давать-Fin-Imp-Imp-S2 noun|песенка-Fem-Sing-Acc adp|про propn|Варя-Fem-Sing-Acc verb|спеть-Fin-perf-Imp-Fut-P1 propn|Тося-Fem-Sing-Nom .
+%gra:	1|2|CASE 2|4|OBL 3|2|PUNCT 4|0|ROOT 5|4|OBJ 6|7|CASE 7|5|NMOD 8|4|XCOMP 9|4|VOCATIVE 10|9|PUNCT
+*CHI:	нееу . 69650_70453
+%mor:	intj|нееу .
+%gra:	1|0|ROOT 2|1|PUNCT
+*NAN:	давай . 69650_70964
+%mor:	verb|давать-Fin-Imp-Imp-S2 .
+%gra:	1|0|ROOT 2|1|PUNCT
+*NAN:	Варя Варечка сестричка . 70964_74635
+%mor:	propn|Варя-Fem-Sing-Nom propn|Варечка-Fem-Sing-Nom noun|сестричка-Fem-Sing-Nom .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|1|APPOS 4|3|PUNCT
+*NAN:	Вааря Варечкаа . 74635_77822
+%mor:	propn|Варя-Fem-Sing-Nom propn|Варечка-Fem-Sing-Nom .
+%gra:	1|0|ROOT 2|1|FLAT-NAME 3|2|PUNCT
+*MOT:	ой скажи не напоминайте . 74635_79052
+%mor:	intj|ой verb|сказать-Fin-Perf-Imp-S2 part|не verb|напоминать-Fin-Perf-Imp-P2 .
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|FLAT 4|3|FLAT 5|4|PUNCT
+*MOT:	целый день без Вари . 79052_81281
+%mor:	adj|целый-Masc-Sing-Nom noun|день-Masc-Sing-Nom adp|без propn|Варя-Fem-Sing-Gen .
+%gra:	1|2|AMOD 2|0|ROOT 3|4|CASE 4|2|NMOD 5|4|PUNCT
+*MOT:	страдания одни . 81281_83202
+%mor:	noun|страдание-Neut-Plur-Nom det|один-Def-Ind-Plur-Nom .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|PUNCT
+*NAN:	а теперь надо наверно собрать Тось как ты думаешь ? 83202_93831
+%mor:	cconj|а adv|теперь adv|надо adv|наверно verb|собрать-Inf-Perf-S propn|Тося-Fem-Sing-Nom sconj|как pron|ты-Prs-Nom-S2 verb|думать-Fin-Imp-Ind-Pres-S2 ?
+%gra:	1|3|CC 2|3|ADVMOD 3|0|ROOT 4|5|ADVMOD 5|3|CSUBJ 6|8|VOCATIVE 7|9|MARK 8|9|NSUBJ 9|5|ADVCL 10|9|PUNCT
+%sit:	the child takes off her jewelry and leaves it on the floor
+*NAN:	аа Антонина ? 93831_95893
+%mor:	intj|аа propn|Антонина-Fem-Sing-Nom ?
+%gra:	1|2|DISCOURSE 2|0|ROOT 3|2|PUNCT
+*NAN:	соберём ? 95893_97047
+%mor:	verb|собрать-Fin-Perf-Ind-Fut-P1 ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	ам . 97047_98483
+%mor:	intj|ам .
+%gra:	1|0|ROOT 2|1|PUNCT
+*NAN:	нет ? 97047_99277
+%mor:	intj|нет ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*NAN:	будем ещё примерять ? 99277_100920
+%mor:	aux|быть-Fin-Imp-Ind-Pres-P1 adv|еще verb|примерять-Inf-Imp-S ?
+%gra:	1|3|AUX 2|3|ADVMOD 3|0|ROOT 4|3|PUNCT
+*NAN:	давай все примерим резиночки , заколочки , давай ? 100920_104875
+%mor:	verb|давать-Fin-Imp-Imp-S2 pron|все-Tot-Acc-P1 verb|примерять-Fin-Perf-Imp-Fut-P1 noun|резиночка-Masc-Plur-Acc cm|cm noun|заколочка-Fem-Plur-Acc cm|cm verb|давать-Fin-Imp-Imp-S2 ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|XCOMP 4|3|OBJ 5|4|PUNCT 6|4|CONJ 7|6|PUNCT 8|1|CONJ 9|8|PUNCT
+*CHI:	аам . 104875_106531
+%mor:	intj|аам .
+%gra:	1|0|ROOT 2|1|PUNCT
+*NAN:	щас [: сейчас] Света найдёт +... 104875_107481
+%mor:	adv|сейчас propn|Света-Fem-Sing-Nom verb|найти-Fin-Perf-Ind-Fut-S3 +...
+%gra:	1|3|ADVMOD 2|3|NSUBJ 3|0|ROOT 4|3|PUNCT
+*NAN:	+, как поставить чтоб [: чтобы] [*] и сама тож [: тоже] туда попала , туда . 107481_111088
+%mor:	adv|как verb|поставить-Inf-Perf-S sconj|чтобы part|и det|сам-Fem-Def-Emp-Sing-Nom part|тоже adv|туда verb|попасть-Fin-Perf-Ind-Past-S cm|cm adv|туда .
+%gra:	1|2|ADVMOD 2|0|ROOT 3|8|MARK 4|5|ADVMOD 5|8|NSUBJ 6|8|ADVMOD 7|8|ADVMOD 8|2|ADVCL 9|8|PUNCT 10|7|CONJ 11|10|PUNCT
+*NAN:	туда то бишь туда . 111088_113004
+%mor:	adv|туда sconj|то sconj|бишь adv|туда .
+%gra:	1|0|ROOT 2|1|CC 3|2|FIXED 4|1|CCOMP 5|4|PUNCT
+*MOT:	подержи пожалуйста . 113004_119259
+%mor:	verb|подержать-Fin-Perf-Imp-S2 part|пожалуйста .
+%gra:	1|0|ROOT 2|1|DISCOURSE 3|2|PUNCT
+*NAN:	даа , так ладно нам не на +... 119259_121184
+%mor:	intj|даа cm|cm part|так part|ладно pron|мы-Prs-Dat-P1 part|не adp|на +...
+%gra:	1|5|DISCOURSE 2|1|PUNCT 3|4|DISCOURSE 4|3|DISCOURSE 5|0|ROOT 6|5|ADVMOD 7|5|ORPHAN 8|7|PUNCT
+@End

@@ -1,0 +1,230 @@
+@UTF8
+@PID:	11312/a-00092578-0
+@Window:	0_0_0_0_113_1_7668_0_7668_0
+@Begin
+@Languages:	rus
+@Participants:	MOT Mother, CHI Target_Child
+@Options:	bullets
+@ID:	rus|RusLan|MOT||female|||Mother|||
+@ID:	rus|RusLan|CHI|1;03.20|female|||Target_Child|||
+@Media:	T45, video
+@Date:	12-DEC-2016
+@Types:	long, toyplay, TD
+*MOT:	это что такое , Тось ? 1915_3243
+%mor:	pron|это-Dem-Nom pron|что-IntRel-Nom det|такой-Neut-Def-Dem-Sing cm|cm propn|Тося-Fem-Sing-Nom ?
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|DET 4|3|PUNCT 5|2|VOCATIVE 6|5|PUNCT
+*MOT:	ой , это Доля . 3243_4800
+%mor:	intj|ой cm|cm pron|это-Dem-Nom propn|Доля-Fem-Sing-Nom .
+%gra:	1|4|DISCOURSE 2|1|PUNCT 3|4|NSUBJ 4|0|ROOT 5|4|PUNCT
+*MOT:	давай xлопать Доле . 4800_6115
+%mor:	verb|давать-Fin-Imp-Imp-S2 verb|xлопать-Inf-Imp propn|Доля-Fem-Sing-Dat .
+%gra:	1|0|ROOT 2|1|XCOMP 3|2|OBJ 4|3|PUNCT
+*MOT:	будешь xлопать Доле ? 6115_7492
+%mor:	aux|быть-Fin-Ind-Fut-S2 verb|xлопать-Inf-Imp propn|Доля-Fem-Sing-Dat ?
+%gra:	1|2|AUX 2|0|ROOT 3|2|OBJ 4|3|PUNCT
+*MOT:	да , давай . 7492_9000
+%mor:	intj|да cm|cm part|давай .
+%gra:	1|3|PARATAXIS 2|1|PUNCT 3|0|ROOT 4|3|PUNCT
+*MOT:	раз и , два и . 9000_11100
+%mor:	num|раз cconj|и cm|cm num|два cconj|и .
+%gra:	1|0|ROOT 2|4|CC 3|2|PUNCT 4|1|CONJ 5|1|CC 6|5|PUNCT
+*MOT:	раз и , два и . 11100_13564
+%mor:	num|раз cconj|и cm|cm num|два cconj|и .
+%gra:	1|5|ROOT 2|4|CC 3|2|PUNCT 4|1|CONJ 5|1|CC 6|5|PUNCT
+*MOT:	эxе , да ? 13564_15100
+%mor:	intj|эxе cm|cm intj|да ?
+%gra:	1|0|ROOT 2|1|PUNCT 3|1|CONJ 4|3|PUNCT
+*MOT:	Тось . 15100_18800
+%mor:	propn|Тося-Fem-Sing-Nom.
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	а давай покажем . 18800_20514
+%mor:	cconj|а part|давай verb|показать-Fin-Perf-Ind-Fut-P1 .
+%gra:	1|2|CC 2|0|ROOT 3|2|XCOMP 4|3|PUNCT
+*MOT:	где у нас носик . 20514_22091
+%mor:	adv|где adp|у pron|мы-Prs-Gen-P1 noun|носик-Masc-Sing-Nom .
+%gra:	1|3|ADVMOD 2|3|CASE 3|0|ROOT 4|3|NSUBJ 5|4|PUNCT
+*MOT:	носик где у Тоси ? 22091_23864
+%mor:	noun|носик-Masc-Sing-Nom adv|где adp|у propn|Тося-Fem-Sing-Gen ?
+%gra:	1|0|ROOT 2|4|ADVMOD 3|4|CASE 4|4|IOBJ 5|4|PUNCT
+*MOT:	где у Тоси носик ? 23864_26000
+%mor:	adv|где adp|у propn|Тося-Fem-Sing-Gen noun|носик-Masc-Sing-Nom ?
+%gra:	1|4|ADVMOOD 2|3|CASE 3|1|OBL 4|0|ROOT 5|4|PUNCT
+*MOT:	носик где ? 26000_27204
+%mor:	noun|носик-Masc-Sing-Nom adv|где ?
+%gra:	1|0|ROOT 2|1|ADVMOD 3|2|PUNCT
+*MOT:	это что ? 27204_28600
+%mor:	pron|это-Dem-Nom pron|что-IntRel-Nom ?
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|PUNCT
+%sit:	child touches his ear
+*MOT:	это ушки . 28600_29350
+%mor:	pron|это-Dem-Nom noun|ушко-Neut-Plur-Nom .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|PUNCT
+*MOT:	а носик где ? 29350_30707
+%mor:	cconj|а noun|носик-Masc-Sing-Nom adv|где ?
+%gra:	1|2|CC 2|0|ROOT 3|2|ADVMOD 4|3|PUNCT
+*MOT:	носик где ? 30707_31722
+%mor:	noun|носик-Masc-Sing-Nom adv|где ?
+%gra:	1|0|ROOT 2|1|ADVMOD 3|2|PUNCT
+*MOT:	где носик ? 31722_32682
+%mor:	adv|где noun|носик-Masc-Sing-Nom ?
+%gra:	1|0|ROOT 2|1|NSUBJ 3|2|PUNCT
+*MOT:	где носик у Тоси ? 32682_34595
+%mor:	adv|где noun|носик-Masc-Sing-Nom adp|у propn|Тося-Fem-Sing-Gen ?
+%gra:	1|4|ADVMOOD 2|0|ROOT 3|4|CASE 4|1|OBL 5|4|PUNCT
+*MOT:	где ? 36595_39194
+%mor:	adv|где ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	это волосы . 39194_41099
+%mor:	pron|это-Dem-Nom noun|волос-Masc-Plur-Nom .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|PUNCT
+%sit:	child touches his head
+*MOT:	а это игра . 41099_43603
+%mor:	cconj|а pron|это-Dem-Nom noun|игра-Fem-Sing-Nom .
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|PUNCT
+%sit:	child touches the game
+*CHI:	тя . 43603_48026
+%mor:	intj|тя .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	Тось . 48026_49726
+%mor:	propn|Тося-Fem-Sing-Nom  .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	а где собачка ? 49726_51026
+%mor:	cconj|а adv|где noun|собачка-Fem-Sing-Nom ?
+%gra:	1|2|CC 2|3|ADVMOOD 3|0|ROOT 4|3|PUNCT
+*MOT:	собачка где ? 51026_53777
+%mor:	noun|собачка-Fem-Sing-Nom adv|где ?
+%gra:	1|0|ROOT 2|1|ADVMOD 3|2|PUNCT
+*MOT:	где собачка ? 53777_57771
+%mor:	adv|где noun|собачка-Fem-Sing-Nom ?
+%gra:	1|2|ADVMOOD 2|0|ROOT 3|2|PUNCT
+*MOT:	как собачка +//. 57771_59971
+%mor:	sconj|как noun|собачка-Fem-Sing-Nom +//.
+%gra:	1|2|MARK 2|0|ROOT 3|2|PUNCT
+*CHI:	ава@o . 59971_60904
+%mor:	intj|ава@o .
+%gra:	1|0|FLAT 2|1|PUNCT
+*MOT:	правильно . 59971_60904
+%mor:	adv|правильно .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	как скажи . 60804_62108
+%mor:	sconj|как verb|сказать-Fin-Perf-Imp-S2 .
+%gra:	1|2|MARK 2|0|ROOT 3|2|PUNCT
+*MOT:	как она говорит ? 62108_63108
+%mor:	sconj|как pron|она-Prs-Nom-S3 verb|говорить-Fin-Imp-Ind-Pres-S3 ?
+%gra:	1|3|MARK 2|3|NSUBJ 3|0|ROOT 4|3|PUNCT
+*MOT:	Тось . 63108_64331
+%mor:	propn|Тося-Fem-Sing-Nom .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	а , где собачка ? 64331_66498
+%mor:	cconj|а cm|cm adv|где noun|собачка-Fem-Sing-Nom ?
+%gra:	1|3|CC 2|1|PUNCT 3|4|ADVMOOD 4|0|ROOT 5|4|PUNCT
+*CHI:	м . 66498_67674
+%mor:	intj|м .
+%gra:	1|0|ROOT 2|1|PUNCT
+%com:	child moves the game
+*CHI:	дя . 67674_72354
+%mor:	intj|дя .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	где собачка ? 72354_75247
+%mor:	adv|где noun|собачка-Fem-Sing-Nom ?
+%gra:	1|2|ADVMOOD 2|0|ROOT 3|2|PUNCT
+*MOT:	ба-ба . 75247_77263
+%mor:	intj|ба-ба .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	ава-ава@o , собачка . 77263_79611
+%mor:	intj|ава-ава@o cm|cm noun|собачка-Fem-Sing-Nom .
+%gra:	1|3|DICOURSE 2|1|PUNCT 3|0|ROOT 4|3|PUNCT
+*MOT:	так кто тут у нас есть ? 79611_81611
+%mor:	adv|так pron|кто-IntRel-Nom adv|тут adp|у pron|мы-Prs-Gen-P1 verb|быть-Fin-Imp-Ind-Pres-S3 ?
+%gra:	1|6|ADVMOD 2|6|NSUBJ 3|6|ADVMOD 4|5|CASE 5|6|OBL 6|0|ROOT 7|6|PUNCT
+*MOT:	мишка есть ? 81611_83652
+%mor:	noun|мишка-Masc-Sing-Nom verb|быть-Fin-Imp-Ind-Pres-S3 ?
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|PUNCT
+*MOT:	Тось . 83652_85500
+%mor:	propn|Тося-Fem-Sing-Nom .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	где мишка ? 85500_86323
+%mor:	adv|где noun|мишка-Masc-Sing-Nom ?
+%gra:	1|2|ADVMOOD 2|0|ROOT 3|2|PUNCT
+*CHI:	м . 86323_91025
+%mor:	intj|м .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	это тигр . 91025_92974
+%mor:	pron|это-Dem-Nom noun|тигр-Masc-Sing-Nom .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|PUNCT
+*MOT:	эxе , xе . 92974_94400
+%mor:	intj|эxе cm|cm intj|xе .
+%gra:	1|0|ROOT 2|1|PUNCT 3|1|DISCOURSE 4|3|PUNCT
+*MOT:	это тигр . 94400_95202
+%mor:	pron|это-Dem-Nom noun|тигр-Masc-Sing-Nom .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|PUNCT
+*MOT:	тигр как говорит , Тось ? 95202_96741
+%mor:	noun|тигр-Masc-Sing-Nom sconj|как verb|говорить-Fin-Imp-Ind-Pres-S3 cm|cm propn|Тося-Fem-Sing-Nom ?
+%gra:	1|3|NSUBJ 2|3|MARK 3|0|ROOT 4|3|PUNCT 5|3|VOCATIVE 6|5|PUNCT
+*MOT:	м ? 96741_99562
+%mor:	intj|м ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	как тигр говорит ? 99562_100842
+%mor:	sconj|как noun|тигр-Masc-Sing-Nom verb|говорить-Fin-Imp-Ind-Pres-S3 ?
+%gra:	1|3|MARK 2|3|NSUBJ 3|0|ROOT 4|3|PUNCT
+*MOT:	так , а тут что ? 100842_109143
+%mor:	adv|так cm|cm cconj|а adv|тут pron|что-IntRel-Nom ?
+%gra:	1|5|MARK 2|1|PUNCT 3|4|CC 4|1|ADVMOOD 5|0|ROOT 6|5|PUNCT
+*MOT:	кто у нас тут ? 109143_110228
+%mor:	pron|кто-IntRel-Nom adp|у pron|мы-Prs-Gen-P1 adv|тут ?
+%gra:	1|0|ROOT 2|3|CASE 3|4|IOBJ 4|3|ADVMOD 5|4|PUNCT
+*MOT:	ну-ка рассказывай кто тут , Тось . 110228_122871
+%mor:	part|ну-ка verb|рассказывать-Fin-Ind-Imp-S2 pron|кто-IntRel-Nom adv|тут cm|cm propn|Тося-Fem-Sing-Nom .
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|NSUBJ 4|2|ADVMOD 5|4|PUNCT 6|3|VOCATIVE 7|6|PUNCT
+*MOT:	кто это ? 122871_126231
+%mor:	pron|кто-IntRel-Nom pron|это-Dem-Nom ?
+%gra:	1|0|ROOT 2|1|NSUBJ 3|2|PUNCT
+*CHI:	бяа . 122871_126231
+%mor:	intj|бяа .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	кто ? 127179_128154
+%mor:	pron|кто-IntRel-Nom ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*CHI:	бяа . 128154_130312
+%mor:	intj|бяа .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	бя , свинья . 130312_132500
+%mor:	intj|бя cm|cm noun|свинья-Fem-Sing-Nom .
+%gra:	1|3|DISCOURSE 2|1|PUNCT 3|0|ROOT 4|3|PUNCT
+*MOT:	да , свинья . 132500_133632
+%mor:	intj|да cm|cm noun|свинья-Fem-Sing-Nom .
+%gra:	1|3|PARATAXIS 2|1|PUNCT 3|0|ROOT 4|3|PUNCT
+*MOT:	xрюша . 133632_135433
+%mor:	noun|хрюша-Fem-Sing-Nom .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	свинья , xрюша . 135433_137355
+%mor:	noun|свинья-Fem-Sing-Nom cm|cm noun|xрюша-Fem-Sing-Nom .
+%gra:	1|0|ROOT 2|3|PUNCT 3|1|CONJ 4|3|PUNCT
+*MOT:	бя . 137355_140680
+%mor:	intj|бя .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	так , а тут что ? 140680_143144
+%mor:	adv|так cm|cm cconj|а adv|тут pron|что-IntRel-Nom ?
+%gra:	1|5|MARK 2|1|PUNCT 3|4|CC 4|1|ADVMOOD 5|0|ROOT 6|5|PUNCT
+*MOT:	Тося . 143144_146175
+%mor:	propn|Тося-Fem-Sing-Nom .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	это что такое ? 146175_147175
+%mor:	pron|это-Dem-Nom pron|что-IntRel-Nom det|такой-Neut-Def-Dem-Sing ?
+%gra:	1|2|NSUBJ 2|0|ROOT 3|2|DET 4|3|PUNCT
+*MOT:	м . 147175_150101
+%mor:	intj|м .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	что это ? 150101_151152
+%mor:	pron|что-IntRel-Nom pron|это-Dem-Nom ?
+%gra:	1|0|ROOT 2|1|NSUBJ 3|2|PUNCT
+*CHI:	мм . 151152_151752
+%mor:	intj|мм .
+%gra:	1|0|ROOT 2|1|PUNCT
+*MOT:	а это что ? 151752_153379
+%mor:	cconj|а pron|это-Dem-Nom pron|что-IntRel-Noms ?
+%gra:	1|3|CC 2|3|NSUBJ 3|0|ROOT 4|3|PUNCT
+*CHI:	м . 153379_156481
+%mor:	intj|м .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End
