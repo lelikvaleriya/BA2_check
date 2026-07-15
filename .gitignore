@@ -7,5 +7,3 @@ materials/examples/
 materials/distribution/
 docs/typical_errors.txt
 
-# На случай, если кто-то случайно впишет реальный ключ прямо в workflow.json
-# при экспорте из n8n — лучше перепроверять руками перед коммитом.
